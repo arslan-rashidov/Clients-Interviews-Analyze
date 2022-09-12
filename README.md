@@ -1,9 +1,5 @@
 # Clients Interviews Analyze
 
-1. algorithm used
-2. a few words about train process and results
-3. important libraries used
-
 # Used libraries
 
 1. Pandas
