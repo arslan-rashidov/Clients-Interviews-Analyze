@@ -2,6 +2,7 @@ import requests
 
 token = "c3B0LmludGVncmF0aW9uOlI4JVV+ZU9+SFo4VA=="
 
+
 class SkillsSearchType:
     EMPLOYEE = 'employee',
     PROJECT = 'project',
@@ -14,7 +15,10 @@ class SkillsSearchType:
 
 def get_soft_skills(full_name, start_date, end_date):
     r = requests.get(
-        url=f'https://jsupport.andersenlab.com/rest/api/2/search?jql=issuetype="English self-presentation training" AND ("Full name"  ~ "{full_name}" or  text ~ "{full_name}") and created >= {start_date} and created <= {end_date}&fields=summary,status,resolutiondate,created,customfield_13502,issuetype,customfield_12106',
+        url=f'https://jsupport.andersenlab.com/rest/api/2/search?jql=issuetype="English self-presentation training" '
+            f'AND ("Full name"  ~ "{full_name}" or  text ~ "{full_name}") and created >= {start_date} and created'
+            f' <= {end_date}&fields=summary,status,resolutiondate,created,customfield_13502,issuetype,'
+            f'customfield_12106',
         headers={'Authorization': f'Basic {token}'})
 
     return r.text
@@ -39,7 +43,7 @@ def get_hard_skills(search_type, full_name, start_date, end_date):
     start_date_param = f"and created >= {start_date}"
     end_date_param = f"and created <= {end_date}"
 
-    search_param = f"and {get_param_by_search_type(search_type, full_name)}"
+    search_param = f"and {get_param_by_search_type(search_type, full_name)} {start_date_param} {end_date_param}"
 
     fields = 'fields=issuetype,customfield_13912,customfield_15505,key,subtasks,summary,assignee,customfield_14200,created,duedate,customfield_14502,customfield_14319,resolution,resolutiondate,status,customfield_15300,customfield_15608,customfield_14310,customfield_14311'
 
@@ -63,5 +67,6 @@ def get_issues_list(months_ago, max_results=1000):
                      headers={'Authorization': f'Basic {token}'})
 
     return r.text
+
 
 print(get_soft_skills("Armine Saghatelyan", "2021-01-01", "2022-12-12"))

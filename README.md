@@ -28,6 +28,3 @@ Best parameters were chosen with GridSearchCV.
 Random Forest
 accuracy - 73.6%
 
-Gradient Boosting
-accuracy - 75.1% (best for now)
-
