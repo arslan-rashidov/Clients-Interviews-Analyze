@@ -1,3 +1,5 @@
+import pickle
+
 import numpy as np
 import pandas as pd
 
@@ -39,7 +41,7 @@ class ClientsInterviewsDataPreprocessing:
                                                                        on='candidate_id',
                                                                        how='left')
 
-        # Uncomment to get subjective_readiness
+        # Uncomment to get subjective_readiness(don't have info for all candidates)
         # staffing_interview_df = pd.read_csv('data/staffing_interview.csv')
         # staffing_interview_df = staffing_interview_df[(~staffing_interview_df['subjective_readiness'].isnull())]
         # staffing_interview_df = staffing_interview_df[['candidate_id', 'interview_type', 'subjective_readiness']]
@@ -79,25 +81,22 @@ class ClientsInterviewsDataPreprocessing:
         clients_interviews_df['status'] = clients_interviews_df['status'].apply(
             lambda value: 0 if str(value) == 'REJECT' else 1)
 
+        clients_interviews_df['english_level'] = clients_interviews_df['english_level'].replace(np.nan, "B1")
+        clients_interviews_df = clients_interviews_df.drop(['candidate_id'], axis=1)
+
+        columns_to_encode = clients_interviews_df.drop(['status'], axis=1).columns
+
         one_hot_encoder = OneHotEncoder()
 
-        transformed_main_technology = one_hot_encoder.fit_transform(clients_interviews_df[['main_technology']])
-        clients_interviews_df[one_hot_encoder.categories_[0]] = transformed_main_technology.toarray()
+        transformed_features = one_hot_encoder.fit_transform(clients_interviews_df[columns_to_encode]).toarray()
+        transformed_labels = np.array(one_hot_encoder.get_feature_names_out()).ravel()
 
-        transformed_seniority_level = one_hot_encoder.fit_transform(clients_interviews_df[['seniority_level']])
-        clients_interviews_df[one_hot_encoder.categories_[0]] = transformed_seniority_level.toarray()
-
-        transformed_english_level = one_hot_encoder.fit_transform(clients_interviews_df[['english_level']])
-        clients_interviews_df['english_level'] = clients_interviews_df['english_level'].replace(np.nan, "B1")
-        clients_interviews_df[one_hot_encoder.categories_[0]] = transformed_english_level.toarray()
-
-        transformed_location_id = one_hot_encoder.fit_transform(clients_interviews_df[['location_id']])
-        clients_interviews_df[one_hot_encoder.categories_[0]] = transformed_location_id.toarray()
-
-        clients_interviews_df = clients_interviews_df.drop(
-            ['candidate_id', 'main_technology', 'seniority_level', 'english_level', 'location_id'], axis=1)
+        encoded_df = pd.DataFrame(transformed_features, columns=transformed_labels)
+        clients_interviews_df = pd.concat([clients_interviews_df.drop(columns=columns_to_encode).reset_index(drop=True),
+                                           encoded_df.reset_index(drop=True)], axis=1)
 
         clients_interviews_df.to_csv(self.clients_interview_df_path, index=False)
+        pickle.dump(one_hot_encoder, open('one_hot_encoder.pkl', 'wb'))
 
 
 if __name__ == "__main__":
