@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b177c660-c9c0-4c04-babf-f4a510c1ab64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ApiController/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiController/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiController/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiController/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients_interviews.csv" beforeDir="false" afterPath="$PROJECT_DIR$/clients_interviews.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interviews_analyze.py" beforeDir="false" afterPath="$PROJECT_DIR$/interviews_analyze.py" afterDir="false" />
-    </list>
+    <list default="true" id="b177c660-c9c0-4c04-babf-f4a510c1ab64" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
