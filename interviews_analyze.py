@@ -4,8 +4,7 @@ import pandas as pd
 import numpy as np
 
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import StratifiedKFold, cross_val_score, GridSearchCV, train_test_split
-
+from sklearn.model_selection import train_test_split
 
 class ClientsInterviewsAnalyzer:
     def __init__(self):
@@ -26,11 +25,13 @@ class ClientsInterviewsAnalyzer:
                                                             train_size=0.8,
                                                             random_state=42)
 
-        # max - 73.6%
-        rfc = RandomForestClassifier(n_estimators=100, max_depth=10, random_state=2,
-                                     max_features=100, min_samples_leaf=6,
-                                     n_jobs=-1, oob_score=True, verbose=True)
+        # max - 61.2%
+        rfc = RandomForestClassifier(n_estimators=75, max_depth=23, random_state=42,
+                                     max_features=3, min_samples_leaf=3,
+                                     n_jobs=-1, oob_score=True, verbose=True, criterion='gini')
+
         rfc.fit(x_train, y_train)
+
         print(f"Random Forest Accuracy - {rfc.score(x_test, y_test)}")
 
         self.save_model(rfc, "random_forest_model")

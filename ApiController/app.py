@@ -3,18 +3,18 @@ from fastapi import FastAPI, HTTPException, status
 from .models import MLModel
 
 app = FastAPI()
-ml_model = MLModel(model_path='random_forest_model.sav', one_hot_encoder_path='one_hot_encoder.pkl')
+ml_model = MLModel(model_path='random_forest_model.sav', one_hot_encoder_path='one_hot_encoder.pkl', min_max_scaler_path='min_max_scaler.pkl')
 
 
 @app.get("/predict")
-async def make_predict(main_technology: str, seniority_level: str, english_level: str, location_id: int):
+async def make_predict(main_technology: str, seniority_level: str, english_level: str, subjective_readiness: int):
     try:
         data = {'main_technology': [main_technology], 'seniority_level': [seniority_level],
-                'english_level': [english_level], 'location_id': [location_id]}
+                'english_level': [english_level], 'subjective_readiness': [subjective_readiness]}
         prediction = ml_model.make_prediction(data=data)
         response = {
-            "chance_of_failure": prediction[0][0],
-            "chance_of_success": prediction[0][1]
+            "chance_of_success": (prediction[0][1] * 100).round(),
+            "chance_of_failure": (prediction[0][0] * 100).round()
         }
         return response
     except Exception as e:
@@ -48,17 +48,6 @@ async def get_english_levels():
         english_levels = ml_model.get_english_levels().tolist()
         response = {
             'english_levels': english_levels
-        }
-        return response
-    except Exception as e:
-        return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
-
-@app.get("/location_ids")
-async def get_location_ids():
-    try:
-        location_ids = ml_model.get_location_ids().tolist()
-        response = {
-            'location_ids': location_ids
         }
         return response
     except Exception as e:
