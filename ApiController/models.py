@@ -4,10 +4,10 @@ import numpy as np
 
 
 class MLModel:
-    def __init__(self, model_path, one_hot_encoder_path, min_max_scaler_path):
+    def __init__(self, model_path, one_hot_encoder_path, project_complexity_df_path):
         loaded_model = pickle.load(open(model_path, 'rb'))
         self.model = loaded_model
-        self.features_transformer = FeaturesTransformer(one_hot_encoder_path, min_max_scaler_path)
+        self.features_transformer = FeaturesTransformer(one_hot_encoder_path, project_complexity_df_path)
 
     def make_prediction(self, data):
         features = self.features_transformer.transform_features(data=data)
@@ -25,31 +25,35 @@ class MLModel:
         english_levels = self.features_transformer.one_hot_encoder.categories_[2]
         return english_levels
 
+    def get_project_names(self):
+        project_names = self.features_transformer.project_complexity_df['project_name'].to_list()
+        return project_names
+
 
 
 class FeaturesTransformer:
-    def __init__(self, one_hot_encoder_path, min_max_scaler_path):
+    def __init__(self, one_hot_encoder_path, project_complexity_df_path):
         loaded_one_hot_encoder = pickle.load(open(one_hot_encoder_path, 'rb'))
-        loaded_min_max_scaler = pickle.load(open(min_max_scaler_path, 'rb'))
+        self.project_complexity_df = pd.read_csv(project_complexity_df_path)
         self.one_hot_encoder = loaded_one_hot_encoder
-        self.min_max_scaler = loaded_min_max_scaler
 
     def transform_features(self, data):
         df = pd.DataFrame(data=data)
-        features = df.drop(['subjective_readiness'], axis=1)
+        df = df.drop(['project_name'], axis=1)
 
-        subjective_readiness_scaled = float(self.scale_subjective_readiness(df['subjective_readiness'][0]))
+        complexity = float(self.get_complexity(data['project_name']))
 
-        transformed_features = self.one_hot_encoder.transform(features)
+        transformed_features = self.one_hot_encoder.transform(df)
         transformed_features = transformed_features.toarray()
-        transformed_features = np.insert(transformed_features, 0, subjective_readiness_scaled, axis=1)
+        transformed_features = np.insert(transformed_features, 0, complexity)
 
         transformed_labels = np.array(self.one_hot_encoder.get_feature_names_out()).ravel()
-        transformed_labels = np.insert(transformed_labels, 0, 'subjective_readiness', axis=0)
+        transformed_labels = np.insert(transformed_labels, 0, 'complexity')
 
-        encoded_features = pd.DataFrame(transformed_features, columns=transformed_labels)
+        encoded_features = pd.DataFrame([transformed_features], columns=transformed_labels)
+
         return encoded_features
 
-    def scale_subjective_readiness(self, value):
-        return self.min_max_scaler.transform(np.array([value]).reshape(-1, 1))[0][0]
-
+    def get_complexity(self, project_name):
+        row = self.project_complexity_df.loc[self.project_complexity_df['project_name'] == project_name]
+        return row['complexity']

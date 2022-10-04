@@ -3,8 +3,9 @@ import pickle
 import pandas as pd
 import numpy as np
 
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.model_selection import train_test_split, GridSearchCV
+
 
 class ClientsInterviewsAnalyzer:
     def __init__(self):
@@ -19,15 +20,16 @@ class ClientsInterviewsAnalyzer:
         clients_interview_df = pd.read_csv(self.clients_interview_df_path)
 
         y = np.asarray(clients_interview_df['status'])
-        x = clients_interview_df.drop(['status'], axis=1)
+        x = clients_interview_df.drop(['status', 'request_for_specialist_id', 'candidate_id', 'project_name'], axis=1)
+
 
         x_train, x_test, y_train, y_test = train_test_split(x, y,
                                                             train_size=0.8,
                                                             random_state=42)
 
-        # max - 61.2%
-        rfc = RandomForestClassifier(n_estimators=75, max_depth=23, random_state=42,
-                                     max_features=3, min_samples_leaf=3,
+        # max - 77.3%
+        rfc = RandomForestClassifier(n_estimators=91, max_depth=10, random_state=42,
+                                     max_features=4, min_samples_leaf=5,
                                      n_jobs=-1, oob_score=True, verbose=True, criterion='gini')
 
         rfc.fit(x_train, y_train)

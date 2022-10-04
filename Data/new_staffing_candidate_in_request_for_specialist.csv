@@ -1,0 +1,1402 @@
+status,request_for_specialist_id,candidate_id,project_name
+ASSIGNED,2381,260,inDriver
+REJECT,4179,1200,inDriver
+ASSIGNED,4179,11183,inDriver
+REJECT,4180,4045,inDriver
+REJECT,4180,3371,inDriver
+PROPOSED,4180,20524,inDriver
+ASSIGNED,4181,2837,inDriver
+PROPOSED,4950,7712,inDriver
+PRE_SELECTED,4951,4357,inDriver
+PROPOSED,4952,20059,inDriver
+PROPOSED,4953,8757,inDriver
+PROPOSED,4956,13505,inDriver
+PROPOSED,4958,19268,inDriver
+PRE_SELECTED,4959,18172,inDriver
+BOOKED,4964,11302,inDriver
+BOOKED,4965,2699,inDriver
+REJECT,2743,1607,Яндекс Медиалаб
+REJECT,2743,4286,Яндекс Медиалаб
+BOOKED,2743,647,Яндекс Медиалаб
+PROPOSED,2743,19551,Яндекс Медиалаб
+REJECT,3017,18140,Яндекс Медиалаб
+REJECT,3017,18855,Яндекс Медиалаб
+PROPOSED,3017,18930,Яндекс Медиалаб
+REJECT,3018,2549,Яндекс Медиалаб
+REJECT,3457,3138,Яндекс Медиалаб
+REJECT,3457,7650,Яндекс Медиалаб
+PROPOSED,3457,427,Яндекс Медиалаб
+PROPOSED,3457,20520,Яндекс Медиалаб
+REJECT,3460,5883,Яндекс Медиалаб
+PROPOSED,3460,19671,Яндекс Медиалаб
+REJECT,3461,7781,Яндекс Медиалаб
+PROPOSED,3461,20199,Яндекс Медиалаб
+REJECT,3462,13303,Яндекс Медиалаб
+REJECT,3463,19807,Яндекс Медиалаб
+PRE_SELECTED,4421,17733,Яндекс Медиалаб
+PROPOSED,4426,3338,Яндекс Медиалаб
+PROPOSED,4570,10852,Яндекс Медиалаб
+ASSIGNED,1964,2696,Thryve (mHealth Pioneers GmbH)
+ASSIGNED,2663,1848,Thryve (mHealth Pioneers GmbH)
+REJECT,4793,1594,Thryve (mHealth Pioneers GmbH)
+PROPOSED,4793,12977,Thryve (mHealth Pioneers GmbH)
+PROPOSED,4793,14680,Thryve (mHealth Pioneers GmbH)
+PRE_SELECTED,4793,12230,Thryve (mHealth Pioneers GmbH)
+PRE_SELECTED,4793,1303,Thryve (mHealth Pioneers GmbH)
+ASSIGNED,2842,2574,Сбербанк Казахстан
+ASSIGNED,2843,3205,Сбербанк Казахстан
+ASSIGNED,3915,2919,Сбербанк Казахстан
+REJECT,4340,375,Сбербанк Казахстан
+ASSIGNED,4340,11878,Сбербанк Казахстан
+ASSIGNED,4341,4983,Сбербанк Казахстан
+ASSIGNED,4342,13070,Сбербанк Казахстан
+ASSIGNED,4343,11192,Сбербанк Казахстан
+ASSIGNED,4344,1053,Сбербанк Казахстан
+PROPOSED,5206,3588,Сбербанк Казахстан
+PROPOSED,5206,1365,Сбербанк Казахстан
+ASSIGNED,701,2518,IHS Kernel
+ASSIGNED,702,1128,IHS Kernel
+REJECT,992,8102,IHS Kernel
+REJECT,992,8144,IHS Kernel
+REJECT,992,494,IHS Kernel
+REJECT,1000,8144,IHS Kernel
+ASSIGNED,1000,8209,IHS Kernel
+REJECT,2145,10745,IHS Kernel
+REJECT,2150,10777,IHS Kernel
+REJECT,2150,11022,IHS Kernel
+REJECT,2151,11444,IHS Kernel
+ASSIGNED,3054,11684,IHS Kernel
+REJECT,2913,1917,X5 Retail Group Портал поставщика
+REJECT,3161,6706,X5 Retail Group Портал поставщика
+REJECT,3212,12976,X5 Retail Group Портал поставщика
+REJECT,3212,13091,X5 Retail Group Портал поставщика
+REJECT,3596,7642,X5 Retail Group Портал поставщика
+BOOKED,3850,19615,X5 Retail Group Портал поставщика
+REJECT,4226,18664,X5 Retail Group Портал поставщика
+ASSIGNED,4227,1275,X5 Retail Group Портал поставщика
+REJECT,4229,19883,X5 Retail Group Портал поставщика
+PROPOSED,4230,11554,X5 Retail Group Портал поставщика
+PROPOSED,4230,11587,X5 Retail Group Портал поставщика
+REJECT,4249,18930,X5 Retail Group Портал поставщика
+ONBOARDING,4580,18579,X5 Retail Group Портал поставщика
+BOOKED,4581,578,X5 Retail Group Портал поставщика
+ONBOARDING,4678,20608,X5 Retail Group Портал поставщика
+PROPOSED,4679,12023,X5 Retail Group Портал поставщика
+REJECT,4772,17820,X5 Retail Group Портал поставщика
+PROPOSED,4772,21331,X5 Retail Group Портал поставщика
+ONBOARDING,4857,18928,X5 Retail Group Портал поставщика
+PROPOSED,4978,427,X5 Retail Group Портал поставщика
+REJECT,603,2233,Альфа-банк
+REJECT,605,6663,Альфа-банк
+REJECT,606,6810,Альфа-банк
+REJECT,613,5019,Альфа-банк
+REJECT,613,7624,Альфа-банк
+REJECT,614,6714,Альфа-банк
+REJECT,620,7371,Альфа-банк
+REJECT,622,7629,Альфа-банк
+REJECT,622,7383,Альфа-банк
+REJECT,624,2474,Альфа-банк
+REJECT,626,8106,Альфа-банк
+REJECT,627,7387,Альфа-банк
+REJECT,630,812,Альфа-банк
+REJECT,633,2242,Альфа-банк
+REJECT,634,8467,Альфа-банк
+REJECT,639,8685,Альфа-банк
+REJECT,659,2290,Альфа-банк
+REJECT,671,2577,Альфа-банк
+REJECT,681,3909,Альфа-банк
+REJECT,682,7992,Альфа-банк
+REJECT,682,6715,Альфа-банк
+REJECT,689,6768,Альфа-банк
+REJECT,691,1696,Альфа-банк
+REJECT,778,723,Альфа-банк
+REJECT,779,6677,Альфа-банк
+REJECT,781,7710,Альфа-банк
+REJECT,784,3336,Альфа-банк
+REJECT,793,1760,Альфа-банк
+REJECT,799,4935,Альфа-банк
+REJECT,836,4749,Альфа-банк
+REJECT,836,7655,Альфа-банк
+REJECT,838,12093,Альфа-банк
+REJECT,839,3375,Альфа-банк
+REJECT,841,2324,Альфа-банк
+REJECT,843,2188,Альфа-банк
+REJECT,844,411,Альфа-банк
+REJECT,845,669,Альфа-банк
+REJECT,909,2790,Альфа-банк
+REJECT,914,249,Альфа-банк
+REJECT,917,7663,Альфа-банк
+REJECT,1347,488,Альфа-банк
+REJECT,1347,10481,Альфа-банк
+REJECT,1363,6740,Альфа-банк
+REJECT,1370,882,Альфа-банк
+REJECT,1370,2766,Альфа-банк
+REJECT,1527,6708,Альфа-банк
+REJECT,1528,10272,Альфа-банк
+REJECT,1529,1496,Альфа-банк
+REJECT,2445,346,Альфа-банк
+REJECT,2449,2086,Альфа-банк
+REJECT,2728,3204,Альфа-банк
+REJECT,2793,2605,Альфа-банк
+REJECT,2813,4397,Альфа-банк
+REJECT,2822,682,Альфа-банк
+REJECT,2883,1917,Альфа-банк
+REJECT,3494,1824,Альфа-банк
+REJECT,3494,5022,Альфа-банк
+REJECT,3494,12716,Альфа-банк
+REJECT,3494,2683,Альфа-банк
+REJECT,3555,4284,Альфа-банк
+ASSIGNED,4428,6726,Альфа-банк
+REJECT,4428,7650,Альфа-банк
+REJECT,4458,7765,Альфа-банк
+REJECT,4459,7763,Альфа-банк
+REJECT,4511,7650,Альфа-банк
+PROPOSED,4511,647,Альфа-банк
+PROPOSED,4511,6469,Альфа-банк
+PROPOSED,4511,2099,Альфа-банк
+PROPOSED,4511,19671,Альфа-банк
+ASSIGNED,4555,12716,Альфа-банк
+REJECT,4556,6697,Альфа-банк
+REJECT,4690,2683,Альфа-банк
+REJECT,4690,10124,Альфа-банк
+PROPOSED,4692,20884,Альфа-банк
+BOOKED,4800,7614,Альфа-банк
+PROPOSED,4800,20634,Альфа-банк
+PROPOSED,4800,20985,Альфа-банк
+PROPOSED,4830,17513,Альфа-банк
+BOOKED,4830,596,Альфа-банк
+BOOKED,4844,17733,Альфа-банк
+PROPOSED,4844,8768,Альфа-банк
+PROPOSED,4844,7607,Альфа-банк
+PROPOSED,4892,19604,Альфа-банк
+PROPOSED,4892,21016,Альфа-банк
+PROPOSED,4914,6518,Альфа-банк
+PROPOSED,4923,20438,Альфа-банк
+PROPOSED,4923,18792,Альфа-банк
+PROPOSED,5016,10374,Альфа-банк
+PROPOSED,5016,11009,Альфа-банк
+PRE_SELECTED,5062,18402,Альфа-банк
+PROPOSED,5149,1956,Альфа-банк
+PROPOSED,5149,19821,Альфа-банк
+ASSIGNED,1955,4484,cxomni CXM cloud
+REJECT,3923,2722,WorldR
+ONBOARDING,3923,12862,WorldR
+ASSIGNED,3924,923,WorldR
+ASSIGNED,3925,8750,WorldR
+PROPOSED,5233,11548,WorldR
+REJECT,1152,9002,СберМаркет
+REJECT,1153,7811,СберМаркет
+BOOKED,4715,10700,СберМаркет
+ASSIGNED,3112,4550,Alternative Payments PSD2
+REJECT,3113,12193,Alternative Payments PSD2
+REJECT,3113,3552,Alternative Payments PSD2
+ASSIGNED,3113,3725,Alternative Payments PSD2
+REJECT,656,4242,Тинькофф Банк
+REJECT,800,11500,Тинькофф Банк
+REJECT,805,3740,Тинькофф Банк
+REJECT,807,552,Тинькофф Банк
+REJECT,809,7161,Тинькофф Банк
+REJECT,810,7710,Тинькофф Банк
+REJECT,848,7601,Тинькофф Банк
+ONBOARDING,848,19839,Тинькофф Банк
+REJECT,851,3611,Тинькофф Банк
+REJECT,851,2188,Тинькофф Банк
+REJECT,852,4548,Тинькофф Банк
+REJECT,852,4548,Тинькофф Банк
+REJECT,853,669,Тинькофф Банк
+REJECT,856,11,Тинькофф Банк
+REJECT,857,6999,Тинькофф Банк
+REJECT,862,9247,Тинькофф Банк
+REJECT,928,10174,Тинькофф Банк
+REJECT,929,1698,Тинькофф Банк
+REJECT,933,2766,Тинькофф Банк
+REJECT,933,10817,Тинькофф Банк
+REJECT,934,4530,Тинькофф Банк
+REJECT,935,10171,Тинькофф Банк
+REJECT,935,9231,Тинькофф Банк
+REJECT,944,10005,Тинькофф Банк
+REJECT,944,682,Тинькофф Банк
+REJECT,947,9360,Тинькофф Банк
+REJECT,947,10272,Тинькофф Банк
+REJECT,951,4995,Тинькофф Банк
+REJECT,955,2728,Тинькофф Банк
+REJECT,969,271,Тинькофф Банк
+REJECT,1017,1053,Тинькофф Банк
+REJECT,1090,7939,Тинькофф Банк
+REJECT,1956,1824,Тинькофф Банк
+PROPOSED,4613,20028,Тинькофф Банк
+PROPOSED,5063,20569,Тинькофф Банк
+REJECT,895,6765,Ланит - Сбер
+REJECT,895,7761,Ланит - Сбер
+REJECT,895,4421,Ланит - Сбер
+REJECT,2951,733,Ланит - Сбер
+ASSIGNED,4017,12961,Ланит - Сбер
+ASSIGNED,4095,6715,Ланит - Сбер
+REJECT,4095,10124,Ланит - Сбер
+REJECT,4694,4106,Ланит - Сбер
+PROPOSED,4694,19532,Ланит - Сбер
+PROPOSED,4694,20559,Ланит - Сбер
+PROPOSED,4694,21037,Ланит - Сбер
+PROPOSED,4694,20686,Ланит - Сбер
+PROPOSED,5012,3532,Ланит - Сбер
+PROPOSED,5013,11086,Ланит - Сбер
+ONBOARDING,4374,20067,Spiromatic
+ASSIGNED,5168,20067,Spiromatic
+REJECT,1146,7985,Kooba
+ASSIGNED,1147,1946,Kooba
+ASSIGNED,3320,4736,Kooba
+PROPOSED,4854,17915,Kooba
+ASSIGNED,749,10941,Siemens UK | Yunex Traffic
+REJECT,1381,8742,МТС Диджитал
+REJECT,1381,3731,МТС Диджитал
+REJECT,1381,11570,МТС Диджитал
+REJECT,1438,514,МТС Диджитал
+REJECT,1440,8465,МТС Диджитал
+REJECT,1441,10147,МТС Диджитал
+REJECT,1505,3834,МТС Диджитал
+REJECT,1979,1233,МТС Диджитал
+REJECT,1984,11057,МТС Диджитал
+REJECT,1986,11443,МТС Диджитал
+REJECT,1988,3171,МТС Диджитал
+REJECT,2510,8114,МТС Диджитал
+REJECT,2532,11904,МТС Диджитал
+REJECT,2845,12192,МТС Диджитал
+ASSIGNED,2845,12079,МТС Диджитал
+REJECT,3092,18157,МТС Диджитал
+REJECT,3158,2605,МТС Диджитал
+REJECT,3177,12996,МТС Диджитал
+REJECT,3195,12529,МТС Диджитал
+REJECT,3856,19449,МТС Диджитал
+REJECT,3857,19591,МТС Диджитал
+REJECT,3857,20292,МТС Диджитал
+ASSIGNED,3859,946,МТС Диджитал
+ASSIGNED,3860,4834,МТС Диджитал
+REJECT,3899,7601,МТС Диджитал
+ASSIGNED,4113,3978,МТС Диджитал
+PROPOSED,4217,19733,МТС Диджитал
+PROPOSED,4219,19570,МТС Диджитал
+REJECT,4629,4148,МТС Диджитал
+ASSIGNED,4629,3731,МТС Диджитал
+ASSIGNED,4630,4148,МТС Диджитал
+ASSIGNED,2115,4615,SupplyStack
+ASSIGNED,2116,10731,SupplyStack
+REJECT,2123,10376,SupplyStack
+REJECT,2123,3219,SupplyStack
+ASSIGNED,2123,10688,SupplyStack
+ASSIGNED,2265,4092,SupplyStack
+PROPOSED,5150,3868,SupplyStack
+PROPOSED,5150,841,SupplyStack
+REJECT,1281,7356,Философия ИТ
+REJECT,1459,4421,Философия ИТ
+REJECT,1596,3834,Философия ИТ
+REJECT,2588,6753,Философия ИТ
+REJECT,2589,6703,Философия ИТ
+REJECT,3405,7756,Философия ИТ
+REJECT,3405,11251,Философия ИТ
+REJECT,3873,7624,Философия ИТ
+PROPOSED,3873,21034,Философия ИТ
+ASSIGNED,3981,11877,Философия ИТ
+ASSIGNED,3982,8482,Философия ИТ
+PROPOSED,3986,11317,Философия ИТ
+PROPOSED,3986,3470,Философия ИТ
+PROPOSED,3987,7612,Философия ИТ
+PROPOSED,3987,11758,Философия ИТ
+PROPOSED,4419,16036,Философия ИТ
+REJECT,4782,9202,Философия ИТ
+BOOKED,4782,7765,Философия ИТ
+PROPOSED,4782,12206,Философия ИТ
+PROPOSED,4782,18336,Философия ИТ
+BOOKED,4790,10938,Философия ИТ
+PROPOSED,4942,379,Философия ИТ
+PROPOSED,4942,17995,Философия ИТ
+BOOKED,4943,17726,Философия ИТ
+PROPOSED,5018,17995,Философия ИТ
+PROPOSED,5018,18029,Философия ИТ
+PROPOSED,5018,12201,Философия ИТ
+PROPOSED,4628,20167,verivox.de
+PROPOSED,5003,2244,verivox.de
+REJECT,1483,7542,Shieldpay
+PROPOSED,4907,19999,Shieldpay
+REJECT,3213,12670,JET RoR
+ASSIGNED,1053,2355,Moonfare
+REJECT,1362,2891,Moonfare
+REJECT,1968,10573,Moonfare
+ASSIGNED,1969,1884,Moonfare
+PROPOSED,5164,18730,Moonfare
+ASSIGNED,1536,2135,Comparis
+REJECT,1616,4817,Comparis
+ASSIGNED,1616,12092,Comparis
+ASSIGNED,1617,672,Comparis
+ONBOARDING,4731,9201,Comparis
+REJECT,4731,19945,Comparis
+ASSIGNED,1104,1717,Yara International
+ASSIGNED,1108,3425,Yara International
+ASSIGNED,1180,3770,Yara International
+ASSIGNED,1247,10096,Yara International
+REJECT,2088,10393,Yara International
+REJECT,2466,10688,Yara International
+ASSIGNED,2506,4557,Yara International
+REJECT,3590,2048,Yara International
+ASSIGNED,3590,10735,Yara International
+REJECT,3879,18188,Yara International
+REJECT,2771,1799,BIKE24
+REJECT,2771,1799,BIKE24
+REJECT,2771,3023,BIKE24
+ASSIGNED,2771,13155,BIKE24
+ASSIGNED,3010,5,BIKE24
+REJECT,1214,10501,Brandoo
+REJECT,1214,10937,Brandoo
+ASSIGNED,4552,812,Brandoo
+ONBOARDING,4587,10937,Brandoo
+ONBOARDING,5091,812,Brandoo
+REJECT,864,7924,M10 (PayPoint)
+ASSIGNED,864,11171,M10 (PayPoint)
+ASSIGNED,973,4076,M10 (PayPoint)
+REJECT,1429,2236,M10 (PayPoint)
+ASSIGNED,1429,1987,M10 (PayPoint)
+REJECT,1492,1150,M10 (PayPoint)
+REJECT,2754,10098,M10 (PayPoint)
+REJECT,2757,4158,M10 (PayPoint)
+REJECT,2760,4107,M10 (PayPoint)
+ASSIGNED,2761,1150,M10 (PayPoint)
+ASSIGNED,2766,1793,M10 (PayPoint)
+REJECT,2766,6070,M10 (PayPoint)
+ASSIGNED,2778,10104,M10 (PayPoint)
+ASSIGNED,2780,10583,M10 (PayPoint)
+REJECT,3260,2126,M10 (PayPoint)
+ASSIGNED,3659,800,M10 (PayPoint)
+ASSIGNED,4301,10943,M10 (PayPoint)
+ASSIGNED,4328,136,M10 (PayPoint)
+REJECT,3786,2462,AMDTelecom
+REJECT,600,6757,Уральский банк реконструкции и развития
+REJECT,601,7387,Уральский банк реконструкции и развития
+REJECT,1403,4640,Уральский банк реконструкции и развития
+REJECT,3047,2916,Уральский банк реконструкции и развития
+REJECT,3047,12650,Уральский банк реконструкции и развития
+REJECT,3047,3589,Уральский банк реконструкции и развития
+ASSIGNED,3047,18658,Уральский банк реконструкции и развития
+REJECT,3080,7604,Уральский банк реконструкции и развития
+REJECT,3340,11848,Уральский банк реконструкции и развития
+REJECT,3341,2482,Уральский банк реконструкции и развития
+REJECT,3341,4045,Уральский банк реконструкции и развития
+BOOKED,3341,20146,Уральский банк реконструкции и развития
+REJECT,3962,32,Уральский банк реконструкции и развития
+ASSIGNED,3962,18354,Уральский банк реконструкции и развития
+ASSIGNED,4367,19126,Уральский банк реконструкции и развития
+ASSIGNED,4705,19086,Уральский банк реконструкции и развития
+REJECT,4717,18221,Уральский банк реконструкции и развития
+REJECT,4768,20608,Уральский банк реконструкции и развития
+PROPOSED,4768,20595,Уральский банк реконструкции и развития
+REJECT,4769,4106,Уральский банк реконструкции и развития
+ONBOARDING,4769,19594,Уральский банк реконструкции и развития
+REJECT,4769,19532,Уральский банк реконструкции и развития
+REJECT,4848,7650,Уральский банк реконструкции и развития
+ASSIGNED,4848,18221,Уральский банк реконструкции и развития
+ASSIGNED,4849,17820,Уральский банк реконструкции и развития
+BOOKED,5146,20309,Уральский банк реконструкции и развития
+ASSIGNED,1078,8754,Getsafe
+REJECT,2319,11757,Getsafe
+ASSIGNED,2319,3443,Getsafe
+REJECT,1032,2539,Wondersign
+REJECT,1032,10376,Wondersign
+REJECT,1276,1931,Wondersign
+ASSIGNED,1533,4586,Wondersign
+REJECT,2762,11061,Wondersign
+REJECT,2762,7747,Wondersign
+REJECT,3038,3338,Wondersign
+PROPOSED,4910,1910,Wondersign
+ASSIGNED,1877,10502,tabby SA
+ASSIGNED,2807,3524,tabby SA
+REJECT,2811,567,tabby SA
+ASSIGNED,2811,4934,tabby SA
+ASSIGNED,3753,1126,tabby SA
+REJECT,558,4107,Paysera
+REJECT,1067,3660,Paysera
+REJECT,1336,9411,Paysera
+REJECT,1456,3371,Paysera
+ASSIGNED,1926,1526,Paysera
+REJECT,3385,4328,Paysera
+ASSIGNED,3777,10380,Paysera
+ASSIGNED,3778,10100,Paysera
+REJECT,3779,586,Paysera
+ASSIGNED,4143,1022,Paysera
+PROPOSED,5155,3868,Paysera
+PROPOSED,5155,18188,Paysera
+PROPOSED,5170,2323,Paysera
+REJECT,1085,6108,Cian_2
+ASSIGNED,2304,252,Upfitness
+REJECT,733,6903,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,735,8742,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,735,10874,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,1414,10031,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,1463,2859,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,1482,4640,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2091,3731,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2091,11421,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2091,12079,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2092,11216,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2092,3731,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2316,4854,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2316,4854,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2464,1824,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2518,17538,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2595,12234,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2597,11739,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2597,3552,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2622,3718,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,2648,12708,Самолёт Венчурс - Плафторма Самолёт+
+ONBOARDING,2690,3792,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2840,12001,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,2910,194,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,13397,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,17637,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,17495,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,14628,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,19762,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3397,20026,Самолёт Венчурс - Плафторма Самолёт+
+BOOKED,3397,20009,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,3446,19271,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,3446,19566,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,3482,19171,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,3486,2220,Самолёт Венчурс - Плафторма Самолёт+
+ONBOARDING,3487,19589,Самолёт Венчурс - Плафторма Самолёт+
+ONBOARDING,3489,19508,Самолёт Венчурс - Плафторма Самолёт+
+REJECT,3618,13355,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,3618,13328,Самолёт Венчурс - Плафторма Самолёт+
+BOOKED,3836,18792,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,3836,19592,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,4164,21371,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4165,17984,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4166,3959,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,4168,20723,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,4168,19347,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4169,17611,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4170,18072,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4441,12760,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,4442,6077,Самолёт Венчурс - Плафторма Самолёт+
+PROPOSED,4671,20037,Самолёт Венчурс - Плафторма Самолёт+
+ASSIGNED,3361,4189,AssetBook LLC2
+ASSIGNED,4022,1605,AssetBook LLC2
+ASSIGNED,4024,7782,AssetBook LLC2
+ONBOARDING,4802,2462,AssetBook LLC2
+ASSIGNED,1768,11427,Laya Technologies
+REJECT,1471,2615,ITFB Group
+REJECT,1539,7992,Сбер РБ - Домклик
+REJECT,1539,1233,Сбер РБ - Домклик
+REJECT,1539,11049,Сбер РБ - Домклик
+REJECT,1539,11078,Сбер РБ - Домклик
+REJECT,1539,10894,Сбер РБ - Домклик
+REJECT,1539,7734,Сбер РБ - Домклик
+ASSIGNED,4013,2906,Сбер РБ - Домклик
+REJECT,1253,736,BSS Group
+REJECT,1367,71,BSS Group
+REJECT,1367,1589,BSS Group
+REJECT,1367,6739,BSS Group
+REJECT,1839,6714,BSS Group
+REJECT,1914,11039,BSS Group
+REJECT,1914,5022,BSS Group
+REJECT,1966,2571,BSS Group
+REJECT,2736,10388,BSS Group
+REJECT,3630,2763,BSS Group
+REJECT,3907,12337,BSS Group
+REJECT,3907,12337,BSS Group
+PROPOSED,4770,12645,BSS Group
+PROPOSED,4773,14639,BSS Group
+PRE_SELECTED,4774,17733,BSS Group
+REJECT,896,7761,Ланит - ВТБ
+REJECT,896,7761,Ланит - ВТБ
+REJECT,956,6668,Ланит - ВТБ
+REJECT,1250,6675,Ланит - ВТБ
+REJECT,2365,4386,Ланит - ВТБ
+REJECT,2366,4737,Ланит - ВТБ
+REJECT,2366,2788,Ланит - ВТБ
+REJECT,2367,3909,Ланит - ВТБ
+REJECT,2367,4005,Ланит - ВТБ
+REJECT,3124,1589,Ланит - ВТБ
+REJECT,3125,1496,Ланит - ВТБ
+REJECT,4366,379,Ланит - ВТБ
+REJECT,4366,17733,Ланит - ВТБ
+PROPOSED,4366,647,Ланит - ВТБ
+PROPOSED,4366,427,Ланит - ВТБ
+REJECT,4468,10375,Ланит - ВТБ
+PROPOSED,4468,11653,Ланит - ВТБ
+ASSIGNED,1201,4162,Wayflyer Limited
+REJECT,1203,2310,Wayflyer Limited
+REJECT,1204,8009,Wayflyer Limited
+REJECT,1919,3338,Wayflyer Limited
+ASSIGNED,2653,11697,Wayflyer Limited
+REJECT,2654,10247,Wayflyer Limited
+REJECT,1200,636,Exness
+REJECT,1404,1007,Exness
+REJECT,1715,1262,Exness
+ASSIGNED,1715,8512,Exness
+ASSIGNED,1842,1679,Exness
+REJECT,1975,2949,Exness
+REJECT,1975,1213,Exness
+ASSIGNED,3467,3198,Exness
+ASSIGNED,3637,18529,Exness
+ASSIGNED,3765,12621,Exness
+ASSIGNED,3766,12214,Exness
+ASSIGNED,3871,1213,Exness
+REJECT,4084,10646,Exness
+REJECT,4084,3461,Exness
+PROPOSED,4084,20196,Exness
+REJECT,4145,2856,Exness
+REJECT,1334,1053,Datagile
+REJECT,1334,4816,Datagile
+REJECT,3950,3589,Datagile
+ASSIGNED,3950,2916,Datagile
+PROPOSED,5029,19532,Datagile
+PROPOSED,5029,20559,Datagile
+PROPOSED,5029,21037,Datagile
+PROPOSED,5029,20686,Datagile
+REJECT,3387,7682,X5 Retail Group. 5POST
+REJECT,3387,7682,X5 Retail Group. 5POST
+REJECT,3496,3790,X5 Retail Group. 5POST
+REJECT,3496,3790,X5 Retail Group. 5POST
+REJECT,3496,4284,X5 Retail Group. 5POST
+ASSIGNED,4069,32,X5 Retail Group. 5POST
+ASSIGNED,4347,9199,X5 Retail Group. 5POST
+REJECT,773,7710,Ростелеком #2
+REJECT,833,4437,Ростелеком #2
+REJECT,833,1775,Ростелеком #2
+REJECT,1157,7811,Ростелеком #2
+REJECT,1175,7352,Ростелеком #2
+REJECT,1223,292,Ростелеком #2
+REJECT,1223,4881,Ростелеком #2
+REJECT,1223,12438,Ростелеком #2
+REJECT,2128,4816,Ростелеком #2
+REJECT,2163,12670,Ростелеком #2
+REJECT,2359,3716,Ростелеком #2
+REJECT,2359,12620,Ростелеком #2
+REJECT,2359,12620,Ростелеком #2
+REJECT,2359,12741,Ростелеком #2
+REJECT,2590,3628,Ростелеком #2
+REJECT,2590,3716,Ростелеком #2
+REJECT,2590,12939,Ростелеком #2
+REJECT,2679,12716,Ростелеком #2
+REJECT,2884,11932,Ростелеком #2
+REJECT,3028,532,Ростелеком #2
+REJECT,3403,6715,Ростелеком #2
+REJECT,3736,1538,Ростелеком #2
+REJECT,3736,6518,Ростелеком #2
+ONBOARDING,3736,19764,Ростелеком #2
+BOOKED,4292,20570,Ростелеком #2
+PROPOSED,4292,18234,Ростелеком #2
+REJECT,1122,2010,Phenom People
+REJECT,1122,1183,Phenom People
+REJECT,3117,86,Phenom People
+REJECT,3117,4930,Phenom People
+ASSIGNED,3118,12474,Phenom People
+PRE_SELECTED,5017,2501,Phenom People
+REJECT,1570,10146,Lexop
+REJECT,1211,1589,Team Force
+REJECT,1422,8106,Team Force
+REJECT,1666,4737,Team Force
+REJECT,2129,6723,Team Force
+REJECT,2733,7385,Team Force
+REJECT,4304,2395,Team Force
+REJECT,4304,2395,Team Force
+REJECT,4304,19839,Team Force
+REJECT,4304,19753,Team Force
+ONBOARDING,4354,7766,Team Force
+REJECT,4535,12206,Team Force
+ONBOARDING,4577,11367,Team Force
+REJECT,1838,10503,Ecovium GmbH
+REJECT,2474,4460,Ecovium GmbH
+REJECT,2474,1719,Ecovium GmbH
+ASSIGNED,3115,4085,Ecovium GmbH
+PROPOSED,5151,13207,Ecovium GmbH
+REJECT,1872,2217,Roibox
+REJECT,2669,3894,Roibox
+REJECT,557,2098,PropertyGuru Group
+REJECT,1205,4400,PropertyGuru Group
+REJECT,3908,860,PropertyGuru Group
+ASSIGNED,3908,2504,PropertyGuru Group
+ASSIGNED,4393,1881,PropertyGuru Group
+REJECT,719,903,Space (Neobank)
+ASSIGNED,722,3054,Space (Neobank)
+REJECT,759,1446,Space (Neobank)
+REJECT,829,3524,Space (Neobank)
+REJECT,829,1881,Space (Neobank)
+REJECT,2794,873,Space (Neobank)
+ASSIGNED,2794,661,Space (Neobank)
+REJECT,3196,665,Space (Neobank)
+REJECT,3196,4873,Space (Neobank)
+ONBOARDING,3196,1920,Space (Neobank)
+ASSIGNED,3433,12193,Space (Neobank)
+REJECT,3524,11595,Space (Neobank)
+BOOKED,3524,2177,Space (Neobank)
+ASSIGNED,3556,2531,Space (Neobank)
+REJECT,3961,3171,Space (Neobank)
+BOOKED,3961,9207,Space (Neobank)
+ASSIGNED,4136,13405,Space (Neobank)
+BOOKED,4329,2936,Space (Neobank)
+BOOKED,4348,4657,Space (Neobank)
+PROPOSED,4933,17776,Space (Neobank)
+REJECT,893,7356,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,893,4792,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,1537,140,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,1537,1230,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,1537,4382,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,3687,7385,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,3687,1133,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,3687,7642,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,3687,3757,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,3687,17726,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,4110,10374,Сбер Риски Департамент интегрированного риск-менеджмента
+ASSIGNED,4110,18464,Сбер Риски Департамент интегрированного риск-менеджмента
+PROPOSED,4867,20440,Сбер Риски Департамент интегрированного риск-менеджмента
+REJECT,1031,8512,NEXR Technologies SE
+ASSIGNED,1031,4780,NEXR Technologies SE
+REJECT,1040,8128,NEXR Technologies SE
+REJECT,2470,7696,NEXR Technologies SE
+ASSIGNED,2470,1013,NEXR Technologies SE
+REJECT,3826,1187,NEXR Technologies SE
+BOOKED,3826,19970,NEXR Technologies SE
+ASSIGNED,1262,189,Reuter Gruppe
+ASSIGNED,1263,4602,Reuter Gruppe
+ASSIGNED,1832,4297,Reuter Gruppe
+ASSIGNED,2511,3133,Reuter Gruppe
+ASSIGNED,2512,1550,Reuter Gruppe
+ASSIGNED,2584,6514,Reuter Gruppe
+ASSIGNED,2627,3219,Reuter Gruppe
+ONBOARDING,3597,7747,Reuter Gruppe
+REJECT,3881,2048,Reuter Gruppe
+ONBOARDING,3882,18917,Reuter Gruppe
+PROPOSED,5193,7695,Reuter Gruppe
+REJECT,767,132,Softeq Minsk
+REJECT,2090,3937,Softeq Minsk
+REJECT,4127,17776,Softeq Minsk
+REJECT,4257,11970,Softeq Minsk
+REJECT,4533,705,Softeq Minsk
+REJECT,1150,8195,Eleving Group
+ASSIGNED,1151,7801,Eleving Group
+REJECT,1405,7923,Eleving Group
+PROPOSED,5152,20196,Eleving Group
+ASSIGNED,2405,12450,Rezolve
+ASSIGNED,3587,1446,Rezolve
+REJECT,646,2866,Allianz Technology - Canada
+REJECT,1052,3653,"Retrain.ai, inc"
+ASSIGNED,1052,625,"Retrain.ai, inc"
+ASSIGNED,1791,10359,"Retrain.ai, inc"
+REJECT,1792,11685,"Retrain.ai, inc"
+ASSIGNED,1792,10038,"Retrain.ai, inc"
+ASSIGNED,1794,3446,"Retrain.ai, inc"
+BOOKED,3975,18817,"Retrain.ai, inc"
+REJECT,4381,18847,"Retrain.ai, inc"
+BOOKED,4381,11584,"Retrain.ai, inc"
+ASSIGNED,1643,2824,Verses
+ASSIGNED,2656,8473,Verses
+ASSIGNED,4708,2312,Verses
+PROPOSED,5153,1962,Verses
+PROPOSED,5216,17918,Verses
+ASSIGNED,3491,1973,Synchtank
+ASSIGNED,574,4168,eurofunk
+REJECT,575,3210,eurofunk
+ASSIGNED,994,10309,eurofunk
+REJECT,1025,2876,eurofunk
+REJECT,1771,6674,eurofunk
+ASSIGNED,4554,13108,eurofunk
+PRE_SELECTED,4554,12977,eurofunk
+REJECT,3519,3868,Majorel
+ASSIGNED,3519,7696,Majorel
+ASSIGNED,4757,7696,Majorel
+PROPOSED,5006,11694,Majorel
+REJECT,642,251,Манго телеком
+REJECT,642,3136,Манго телеком
+REJECT,772,7710,Манго телеком
+REJECT,1904,4643,Манго телеком
+REJECT,1904,1270,Манго телеком
+REJECT,3083,1517,Манго телеком
+REJECT,3083,13158,Манго телеком
+ASSIGNED,3206,2761,DMHub
+REJECT,3078,4284,Centtrip UK
+ASSIGNED,3078,2840,Centtrip UK
+ASSIGNED,700,2740,Booking Group Corporation
+ASSIGNED,1551,487,Booking Group Corporation
+ASSIGNED,1948,2070,Booking Group Corporation
+ASSIGNED,3492,1137,Booking Group Corporation
+ASSIGNED,3939,3702,Booking Group Corporation
+REJECT,1225,8276,JTI (Japan Tobacco International)
+ASSIGNED,1225,8758,JTI (Japan Tobacco International)
+REJECT,1392,4532,JTI (Japan Tobacco International)
+REJECT,1392,10631,JTI (Japan Tobacco International)
+ASSIGNED,1513,3224,JTI (Japan Tobacco International)
+ASSIGNED,1934,653,JTI (Japan Tobacco International)
+REJECT,1959,10715,JTI (Japan Tobacco International)
+REJECT,2011,10393,JTI (Japan Tobacco International)
+REJECT,2011,11455,JTI (Japan Tobacco International)
+ASSIGNED,2011,4049,JTI (Japan Tobacco International)
+ASSIGNED,2190,11422,JTI (Japan Tobacco International)
+REJECT,2716,12036,JTI (Japan Tobacco International)
+REJECT,3029,2289,I-Teco
+REJECT,3029,1589,I-Teco
+REJECT,4430,7724,I-Teco
+ONBOARDING,4430,9202,I-Teco
+ASSIGNED,4382,1842,IPF digital
+PROPOSED,4870,12967,IPF digital
+PROPOSED,4870,12966,IPF digital
+ASSIGNED,4209,13500,The Sole Supplier
+REJECT,1282,8495,River Tech
+REJECT,1488,2126,River Tech
+REJECT,1488,2126,River Tech
+ASSIGNED,1488,1756,River Tech
+ASSIGNED,1571,6708,River Tech
+ASSIGNED,4503,4488,River Tech
+PROPOSED,4859,173,River Tech
+REJECT,653,1007,Exinity
+REJECT,653,3958,Exinity
+ASSIGNED,1141,1235,Exinity
+ASSIGNED,1143,4065,Exinity
+ASSIGNED,2633,11872,Exinity
+ASSIGNED,3607,3851,Exinity
+REJECT,3793,1200,Exinity
+REJECT,3793,4045,Exinity
+REJECT,3793,4197,Exinity
+REJECT,709,7736,Publicis Media DE
+REJECT,709,8286,Publicis Media DE
+ASSIGNED,709,11756,Publicis Media DE
+ASSIGNED,710,8511,Publicis Media DE
+ASSIGNED,1063,4636,Publicis Media DE
+ASSIGNED,1828,10729,Publicis Media DE
+ASSIGNED,1898,10957,Publicis Media DE
+ASSIGNED,1989,11113,Publicis Media DE
+ASSIGNED,2328,10417,Publicis Media DE
+ASSIGNED,2724,12207,Publicis Media DE
+ASSIGNED,3067,11561,Publicis Media DE
+ONBOARDING,4214,19802,Publicis Media DE
+REJECT,4194,4372,IPF digital (WEB)
+REJECT,4194,18225,IPF digital (WEB)
+REJECT,4195,14631,IPF digital (WEB)
+REJECT,4196,13500,IPF digital (WEB)
+REJECT,1123,4926,ANIXE
+REJECT,1509,2899,ANIXE
+REJECT,1509,11684,ANIXE
+REJECT,1710,1917,ANIXE
+REJECT,1710,1917,ANIXE
+REJECT,1935,2290,ANIXE
+ASSIGNED,2721,4363,ANIXE
+REJECT,2580,2700,Nexxiot AG
+ASSIGNED,2580,3646,Nexxiot AG
+PROPOSED,5028,3655,Nexxiot AG
+ASSIGNED,703,204,IHS
+REJECT,704,8022,IHS
+REJECT,704,8904,IHS
+REJECT,704,11455,IHS
+ASSIGNED,705,8602,IHS
+REJECT,706,8597,IHS
+REJECT,706,11693,IHS
+ASSIGNED,882,1130,IHS
+REJECT,991,8211,IHS
+ASSIGNED,991,9206,IHS
+ASSIGNED,1003,3150,IHS
+ASSIGNED,1006,3179,IHS
+REJECT,1359,7622,IHS
+REJECT,1359,8943,IHS
+ASSIGNED,1359,11693,IHS
+REJECT,2007,4493,IHS
+ASSIGNED,2007,2813,IHS
+REJECT,2135,8500,IHS
+ASSIGNED,2135,11811,IHS
+REJECT,2465,14657,IHS
+REJECT,2465,17338,IHS
+PROPOSED,2465,20280,IHS
+REJECT,2609,12207,IHS
+REJECT,2609,11688,IHS
+ASSIGNED,2609,18675,IHS
+REJECT,2659,12207,IHS
+REJECT,2659,8286,IHS
+REJECT,2659,8904,IHS
+ASSIGNED,2659,8904,IHS
+REJECT,4018,4382,IHS
+ASSIGNED,4018,1536,IHS
+REJECT,4502,2233,IHS
+ONBOARDING,4541,17617,IHS
+REJECT,4541,3296,IHS
+PROPOSED,4873,17560,IHS
+PROPOSED,4873,2899,IHS
+PROPOSED,4875,4201,IHS
+BOOKED,4875,10384,IHS
+BOOKED,4876,3572,IHS
+PROPOSED,5212,18161,IHS
+PROPOSED,5212,13260,IHS
+REJECT,655,4914,Ингосстрах-Инвестиции
+REJECT,655,304,Ингосстрах-Инвестиции
+REJECT,775,7346,Ингосстрах-Инвестиции
+REJECT,1393,4478,Ингосстрах-Инвестиции
+REJECT,1469,7764,Ингосстрах-Инвестиции
+REJECT,1511,2290,Ингосстрах-Инвестиции
+REJECT,1511,11142,Ингосстрах-Инвестиции
+REJECT,1512,4242,Ингосстрах-Инвестиции
+REJECT,1534,1696,Ингосстрах-Инвестиции
+REJECT,1538,11039,Ингосстрах-Инвестиции
+REJECT,1800,4392,Ингосстрах-Инвестиции
+REJECT,1801,3336,Ингосстрах-Инвестиции
+REJECT,1801,3336,Ингосстрах-Инвестиции
+REJECT,1841,3400,Ингосстрах-Инвестиции
+REJECT,1892,669,Ингосстрах-Инвестиции
+REJECT,1899,4005,Ингосстрах-Инвестиции
+REJECT,1900,6682,Ингосстрах-Инвестиции
+REJECT,2171,514,Ингосстрах-Инвестиции
+PROPOSED,4319,1956,Ингосстрах-Инвестиции
+ASSIGNED,4704,11935,Ингосстрах-Инвестиции
+PROPOSED,4843,19604,Ингосстрах-Инвестиции
+PROPOSED,4843,6625,Ингосстрах-Инвестиции
+ASSIGNED,872,1604,Transporeon
+ASSIGNED,884,1215,Transporeon
+ASSIGNED,1765,7700,Transporeon
+ASSIGNED,1949,11683,Transporeon
+ASSIGNED,2810,12373,Transporeon
+PROPOSED,4898,13078,Transporeon
+PROPOSED,4899,13067,Transporeon
+PROPOSED,4900,13258,Transporeon
+REJECT,904,2118,МАГНИТ
+REJECT,1115,49,МАГНИТ
+REJECT,1290,4816,МАГНИТ
+REJECT,1432,3400,МАГНИТ
+REJECT,2404,8974,МАГНИТ
+REJECT,3526,10375,МАГНИТ
+REJECT,3527,10396,МАГНИТ
+BOOKED,4474,1942,МАГНИТ
+ASSIGNED,966,10942,Leonteq
+REJECT,2109,661,Bitmovin GmbH
+REJECT,2402,1446,Bitmovin GmbH
+REJECT,563,9370,Global Shares Ireland Limited
+REJECT,563,8606,Global Shares Ireland Limited
+REJECT,563,9370,Global Shares Ireland Limited
+REJECT,563,10550,Global Shares Ireland Limited
+ASSIGNED,563,8875,Global Shares Ireland Limited
+REJECT,564,4768,Global Shares Ireland Limited
+REJECT,564,8748,Global Shares Ireland Limited
+REJECT,564,3574,Global Shares Ireland Limited
+REJECT,564,8519,Global Shares Ireland Limited
+ASSIGNED,564,10944,Global Shares Ireland Limited
+REJECT,565,2141,Global Shares Ireland Limited
+REJECT,565,2331,Global Shares Ireland Limited
+REJECT,565,8947,Global Shares Ireland Limited
+REJECT,566,783,Global Shares Ireland Limited
+REJECT,566,2184,Global Shares Ireland Limited
+REJECT,566,6728,Global Shares Ireland Limited
+REJECT,566,4802,Global Shares Ireland Limited
+REJECT,566,3210,Global Shares Ireland Limited
+ASSIGNED,567,2,Global Shares Ireland Limited
+REJECT,567,2331,Global Shares Ireland Limited
+REJECT,568,7719,Global Shares Ireland Limited
+REJECT,568,4907,Global Shares Ireland Limited
+REJECT,568,1882,Global Shares Ireland Limited
+REJECT,568,3572,Global Shares Ireland Limited
+ASSIGNED,568,8872,Global Shares Ireland Limited
+REJECT,1182,5530,Global Shares Ireland Limited
+REJECT,1182,1234,Global Shares Ireland Limited
+REJECT,1182,11623,Global Shares Ireland Limited
+REJECT,1741,4049,Global Shares Ireland Limited
+REJECT,1742,8413,Global Shares Ireland Limited
+REJECT,1744,10376,Global Shares Ireland Limited
+ASSIGNED,1744,10460,Global Shares Ireland Limited
+REJECT,2349,10780,Global Shares Ireland Limited
+REJECT,2352,10260,Global Shares Ireland Limited
+REJECT,2353,887,Global Shares Ireland Limited
+REJECT,2357,4205,Global Shares Ireland Limited
+REJECT,3009,4822,Global Shares Ireland Limited
+ASSIGNED,3009,10103,Global Shares Ireland Limited
+REJECT,3667,11630,Global Shares Ireland Limited
+ASSIGNED,1875,249,Qatar National Bank
+ASSIGNED,4539,4382,Qatar National Bank
+PRE_SELECTED,4539,13073,Qatar National Bank
+ASSIGNED,1635,3574,Allianz Partners
+REJECT,1635,8519,Allianz Partners
+REJECT,1635,3572,Allianz Partners
+ASSIGNED,1641,2210,Allianz Partners
+REJECT,1642,547,Allianz Partners
+ASSIGNED,1642,3508,Allianz Partners
+ASSIGNED,1853,1660,Allianz Partners
+ASSIGNED,1854,4956,Allianz Partners
+ASSIGNED,2094,8515,Allianz Partners
+ASSIGNED,3331,619,Allianz Partners
+ASSIGNED,3498,12189,Allianz Partners
+REJECT,3785,1623,Allianz Partners
+ASSIGNED,3785,609,Allianz Partners
+REJECT,4114,1898,Allianz Partners
+ONBOARDING,4114,19838,Allianz Partners
+ASSIGNED,4453,3712,Allianz Partners
+ASSIGNED,3583,8499,Decta
+ASSIGNED,4237,3697,Decta
+ASSIGNED,4411,12036,Decta
+REJECT,4225,13505,Emma Sleep GmbH
+PROPOSED,4225,5014,Emma Sleep GmbH
+REJECT,1594,2662,People Intelligence
+ASSIGNED,3138,549,People Intelligence
+ASSIGNED,3321,131,People Intelligence
+REJECT,3554,13077,People Intelligence
+REJECT,3554,1170,People Intelligence
+REJECT,3554,3196,People Intelligence
+REJECT,4068,4275,People Intelligence
+ASSIGNED,4068,3025,People Intelligence
+PROPOSED,5015,671,People Intelligence
+REJECT,1358,2986,Moovforge
+REJECT,1358,163,Moovforge
+REJECT,1358,8749,Moovforge
+REJECT,1358,8416,Moovforge
+ASSIGNED,1358,1262,Moovforge
+REJECT,2010,11212,Moovforge
+REJECT,3049,4419,Moovforge
+ASSIGNED,3920,169,Moovforge
+BOOKED,3921,16292,Moovforge
+ASSIGNED,3922,12488,Moovforge
+REJECT,4203,17959,Moovforge
+REJECT,3563,12189,Stoovo
+REJECT,3624,10337,LigaStavok.TM
+ASSIGNED,3842,730,Yonoton
+REJECT,920,1607,Банки.ру
+REJECT,1087,1332,Банки.ру
+REJECT,1087,1053,Банки.ру
+REJECT,1144,3371,Банки.ру
+REJECT,1144,7672,Банки.ру
+REJECT,1144,10772,Банки.ру
+REJECT,1604,10185,Банки.ру
+REJECT,1604,10635,Банки.ру
+REJECT,1645,249,Банки.ру
+REJECT,1783,4242,Банки.ру
+REJECT,2033,488,Банки.ру
+REJECT,2035,10753,Банки.ру
+REJECT,2037,7382,Банки.ру
+REJECT,2391,3470,Банки.ру
+REJECT,2581,8685,Банки.ру
+REJECT,2795,1917,Банки.ру
+REJECT,2795,11616,Банки.ру
+REJECT,3023,1939,Банки.ру
+REJECT,3043,12974,Банки.ру
+REJECT,3045,13130,Банки.ру
+REJECT,3518,2916,Банки.ру
+REJECT,3518,19265,Банки.ру
+REJECT,4246,18564,Банки.ру
+REJECT,4246,18564,Банки.ру
+REJECT,4631,7790,Банки.ру
+REJECT,4125,112,IPF digital (Java)
+REJECT,4125,11540,IPF digital (Java)
+REJECT,4128,1536,IPF digital (Java)
+REJECT,4128,12730,IPF digital (Java)
+ASSIGNED,578,4226,Backbase
+REJECT,579,3851,Backbase
+REJECT,580,4168,Backbase
+REJECT,580,10500,Backbase
+ONBOARDING,580,17516,Backbase
+REJECT,581,1099,Backbase
+REJECT,581,4205,Backbase
+REJECT,581,8519,Backbase
+REJECT,581,441,Backbase
+ONBOARDING,581,11944,Backbase
+ASSIGNED,755,4019,Backbase
+REJECT,756,5810,Backbase
+REJECT,756,8757,Backbase
+REJECT,756,4983,Backbase
+REJECT,757,2123,Backbase
+ASSIGNED,817,7741,Backbase
+ASSIGNED,819,10934,Backbase
+REJECT,820,7655,Backbase
+REJECT,820,8761,Backbase
+REJECT,820,3524,Backbase
+ASSIGNED,820,2901,Backbase
+REJECT,874,1724,Backbase
+ASSIGNED,876,2585,Backbase
+REJECT,877,3249,Backbase
+REJECT,877,1144,Backbase
+REJECT,877,3256,Backbase
+REJECT,985,11844,Backbase
+ASSIGNED,985,12594,Backbase
+ASSIGNED,1001,2876,Backbase
+ASSIGNED,1002,10936,Backbase
+REJECT,1007,1975,Backbase
+ASSIGNED,1230,63,Backbase
+REJECT,1231,1536,Backbase
+REJECT,1231,609,Backbase
+ASSIGNED,1341,12413,Backbase
+REJECT,2374,800,Backbase
+PROPOSED,5004,332,Backbase
+PROPOSED,5005,18162,Backbase
+PROPOSED,5046,12400,Backbase
+PROPOSED,5049,12730,Backbase
+PROPOSED,5054,17962,Backbase
+PROPOSED,5056,18507,Backbase
+PROPOSED,5057,18016,Backbase
+PROPOSED,5068,1623,Backbase
+PROPOSED,5069,7358,Backbase
+PROPOSED,5070,18043,Backbase
+PROPOSED,5072,11788,Backbase
+PROPOSED,5074,4952,Backbase
+PROPOSED,5098,4483,Backbase
+PROPOSED,5098,1984,Backbase
+PROPOSED,5099,2849,Backbase
+PROPOSED,5100,17663,Backbase
+PROPOSED,5119,18160,Backbase
+PROPOSED,5121,18717,Backbase
+PROPOSED,5142,19741,Backbase
+PRE_SELECTED,5143,12025,Backbase
+PROPOSED,5144,3650,Backbase
+PROPOSED,5156,3937,Backbase
+PROPOSED,5157,4082,Backbase
+ASSIGNED,1233,2747,Rush Street Interactive
+REJECT,1447,4930,Rush Street Interactive
+REJECT,1447,3640,Rush Street Interactive
+ASSIGNED,1574,3087,Rush Street Interactive
+ASSIGNED,2670,1916,Rush Street Interactive
+ASSIGNED,2671,803,Rush Street Interactive
+REJECT,2494,4873,StormPay
+ASSIGNED,2494,1341,StormPay
+REJECT,2495,873,StormPay
+ASSIGNED,2495,3432,StormPay
+ASSIGNED,3448,1080,StormPay
+REJECT,3449,441,StormPay
+REJECT,3650,3588,StormPay
+REJECT,3697,4920,StormPay
+REJECT,3935,2854,StormPay
+REJECT,3935,86,StormPay
+REJECT,698,8476,GMCS
+REJECT,699,6093,GMCS
+REJECT,699,292,GMCS
+REJECT,2438,3834,GMCS
+REJECT,3217,7642,GMCS
+REJECT,3218,4737,GMCS
+PROPOSED,4070,7624,GMCS
+PROPOSED,4239,6730,GMCS
+PROPOSED,4999,6697,GMCS
+ASSIGNED,970,10802,RCI Banque S.A. Niederlassung Deutschland
+ASSIGNED,971,1153,RCI Banque S.A. Niederlassung Deutschland
+REJECT,1195,8547,RCI Banque S.A. Niederlassung Deutschland
+ASSIGNED,3255,547,RCI Banque S.A. Niederlassung Deutschland
+PROPOSED,5229,12835,Enersis
+REJECT,1559,4720,BlueBridge Technologies
+REJECT,1685,934,BlueBridge Technologies
+REJECT,1722,934,BlueBridge Technologies
+REJECT,2737,6768,Accenture Russia
+REJECT,2737,1824,Accenture Russia
+REJECT,2737,5022,Accenture Russia
+REJECT,2738,3909,Accenture Russia
+PRE_SELECTED,4033,21012,Accenture Russia
+PROPOSED,4305,10124,Accenture Russia
+PROPOSED,4306,17725,Accenture Russia
+PROPOSED,4306,20744,Accenture Russia
+PROPOSED,4544,19685,Accenture Russia
+PROPOSED,4544,19078,Accenture Russia
+PROPOSED,4544,19919,Accenture Russia
+PROPOSED,4595,20392,Accenture Russia
+PRE_SELECTED,4655,19671,Accenture Russia
+PROPOSED,4656,6469,Accenture Russia
+PROPOSED,4656,8762,Accenture Russia
+PROPOSED,4697,7664,Accenture Russia
+PROPOSED,4698,8475,Accenture Russia
+PROPOSED,4836,13303,Accenture Russia
+PROPOSED,4837,19706,Accenture Russia
+REJECT,1318,10260,Geta Digital
+ASSIGNED,4510,17958,Geta Digital
+PROPOSED,4855,19787,Geta Digital
+ASSIGNED,1056,3871,I22
+ASSIGNED,1148,7805,I22
+REJECT,1297,7896,I22
+REJECT,2079,8321,Mondia group
+REJECT,2745,2048,Mondia group
+ASSIGNED,2745,3119,Mondia group
+ASSIGNED,3495,10520,Mondia group
+ASSIGNED,1239,4674,Allianz Partners (MultiLob)
+ASSIGNED,1240,1992,Allianz Partners (MultiLob)
+ASSIGNED,1656,1007,Allianz Partners (MultiLob)
+ASSIGNED,2647,8495,Allianz Partners (MultiLob)
+ASSIGNED,2980,12769,Allianz Partners (MultiLob)
+ASSIGNED,3534,3183,Allianz Partners (MultiLob)
+ASSIGNED,4466,4674,Allianz Partners (MultiLob)
+ASSIGNED,4467,7744,Allianz Partners (MultiLob)
+ASSIGNED,4619,650,Allianz Partners (MultiLob)
+REJECT,726,4049,Chrsolutions
+ASSIGNED,726,4515,Chrsolutions
+ASSIGNED,995,4610,ethinking
+ASSIGNED,3114,1592,ethinking
+ASSIGNED,3299,3292,Centtrip USA
+ASSIGNED,3668,2055,Centtrip USA
+ASSIGNED,3683,2999,Centtrip USA
+ASSIGNED,2395,8518,Fressnapf Tiernahrungs
+ONBOARDING,3716,2778,Fressnapf Tiernahrungs
+REJECT,1738,11369,Allianz Technology
+REJECT,1739,10884,Allianz Technology
+REJECT,2063,2088,Allianz Technology
+REJECT,2064,11259,Allianz Technology
+ASSIGNED,1305,3653,Atroo
+REJECT,1306,3703,Atroo
+ASSIGNED,1307,717,Atroo
+REJECT,2423,1106,Atroo
+ASSIGNED,2423,11949,Atroo
+ASSIGNED,2582,2461,Atroo
+ASSIGNED,4075,11008,Atroo
+ASSIGNED,1517,2772,msg Plaut Austria GmbH
+ASSIGNED,1584,7729,msg Plaut Austria GmbH
+REJECT,2346,4540,msg Plaut Austria GmbH
+REJECT,2348,3387,msg Plaut Austria GmbH
+REJECT,2893,547,msg Plaut Austria GmbH
+ASSIGNED,2907,4532,msg Plaut Austria GmbH
+BOOKED,4926,3901,msg Plaut Austria GmbH
+PROPOSED,4945,17562,msg Plaut Austria GmbH
+PROPOSED,4945,4548,msg Plaut Austria GmbH
+PROPOSED,4945,17776,msg Plaut Austria GmbH
+PROPOSED,4970,7627,msg Plaut Austria GmbH
+PROPOSED,4970,17962,msg Plaut Austria GmbH
+REJECT,4982,1400,msg Plaut Austria GmbH
+PROPOSED,4983,3338,msg Plaut Austria GmbH
+PROPOSED,4984,11548,msg Plaut Austria GmbH
+PROPOSED,5030,19605,msg Plaut Austria GmbH
+PROPOSED,5060,18973,msg Plaut Austria GmbH
+PROPOSED,5060,4212,msg Plaut Austria GmbH
+PROPOSED,5079,4181,msg Plaut Austria GmbH
+PRE_SELECTED,5175,873,msg Plaut Austria GmbH
+ASSIGNED,1047,263,Madkhol
+REJECT,1760,870,Madkhol
+REJECT,2095,549,Madkhol
+REJECT,2096,10735,Madkhol
+REJECT,2096,12990,Madkhol
+ASSIGNED,1486,945,Independer
+ASSIGNED,1487,3781,Independer
+ASSIGNED,2788,3718,Independer
+ASSIGNED,3207,4493,Independer
+ASSIGNED,4385,2856,Crystal Blockchain
+ASSIGNED,4386,2090,Crystal Blockchain
+ONBOARDING,4445,4707,Crystal Blockchain
+ASSIGNED,4469,7780,Crystal Blockchain
+ONBOARDING,4471,2048,Crystal Blockchain
+ASSIGNED,4472,17827,Crystal Blockchain
+REJECT,1844,189,Data Lens Labs Ltd
+ASSIGNED,1844,3042,Data Lens Labs Ltd
+ASSIGNED,2847,4807,Data Lens Labs Ltd
+ASSIGNED,3205,4907,Data Lens Labs Ltd
+ASSIGNED,3690,12395,Data Lens Labs Ltd
+ASSIGNED,3691,12892,Data Lens Labs Ltd
+ASSIGNED,3692,7786,Data Lens Labs Ltd
+REJECT,2317,1607,ПАО Банк «ФК Открытие»
+REJECT,2324,488,ПАО Банк «ФК Открытие»
+REJECT,2409,3447,ПАО Банк «ФК Открытие»
+REJECT,2668,2822,ПАО Банк «ФК Открытие»
+REJECT,2915,1080,ПАО Банк «ФК Открытие»
+REJECT,3600,3400,ПАО Банк «ФК Открытие»
+PROPOSED,3952,17913,ПАО Банк «ФК Открытие»
+PROPOSED,3953,7614,ПАО Банк «ФК Открытие»
+PROPOSED,4064,13066,ПАО Банк «ФК Открытие»
+ASSIGNED,4085,7775,ПАО Банк «ФК Открытие»
+REJECT,4086,6747,ПАО Банк «ФК Открытие»
+REJECT,4087,1538,ПАО Банк «ФК Открытие»
+PROPOSED,4087,7790,ПАО Банк «ФК Открытие»
+REJECT,4088,1908,ПАО Банк «ФК Открытие»
+ASSIGNED,4192,18305,ПАО Банк «ФК Открытие»
+REJECT,4364,2546,ПАО Банк «ФК Открытие»
+REJECT,4387,1517,ПАО Банк «ФК Открытие»
+ONBOARDING,4810,3716,ПАО Банк «ФК Открытие»
+BOOKED,4826,11654,ПАО Банк «ФК Открытие»
+PROPOSED,4938,11870,ПАО Банк «ФК Открытие»
+PROPOSED,4976,14639,ПАО Банк «ФК Открытие»
+PROPOSED,4976,20208,ПАО Банк «ФК Открытие»
+PROPOSED,4977,17514,ПАО Банк «ФК Открытие»
+REJECT,1729,10703,ABB Switzerland Ltd
+ASSIGNED,1729,1541,ABB Switzerland Ltd
+REJECT,1730,3894,ABB Switzerland Ltd
+REJECT,1730,10630,ABB Switzerland Ltd
+REJECT,1730,13444,ABB Switzerland Ltd
+ASSIGNED,1730,11630,ABB Switzerland Ltd
+REJECT,1731,11679,ABB Switzerland Ltd
+REJECT,2014,1799,ABB Switzerland Ltd
+ASSIGNED,2014,11751,ABB Switzerland Ltd
+ASSIGNED,2015,3660,ABB Switzerland Ltd
+REJECT,2021,2899,ABB Switzerland Ltd
+ASSIGNED,2021,11400,ABB Switzerland Ltd
+REJECT,2433,1085,ABB Switzerland Ltd
+REJECT,2433,3005,ABB Switzerland Ltd
+REJECT,2433,3292,ABB Switzerland Ltd
+REJECT,2433,10500,ABB Switzerland Ltd
+ASSIGNED,2433,3005,ABB Switzerland Ltd
+ONBOARDING,3875,17520,ABB Switzerland Ltd
+ASSIGNED,2693,11413,Scytl
+ASSIGNED,3698,1535,Scytl
+REJECT,3698,4608,Scytl
+REJECT,3698,2481,Scytl
+ONBOARDING,4041,3256,Scytl
+REJECT,1164,2194,Quincus
+REJECT,1164,10700,Quincus
+REJECT,1178,946,Quincus
+REJECT,3350,12730,Quincus
+REJECT,3369,11540,Quincus
+ASSIGNED,2073,12834,Compleet
+ASSIGNED,2074,11081,Compleet
+ASSIGNED,2075,11774,Compleet
+ASSIGNED,3620,2256,Compleet
+REJECT,3621,12909,Compleet
+ASSIGNED,3622,4363,Compleet
+REJECT,4320,4674,Compleet
+ASSIGNED,3127,11874,ATG
+ASSIGNED,3128,10974,ATG
+ASSIGNED,3129,2891,ATG
+ASSIGNED,3130,4539,ATG
+ASSIGNED,3131,3370,ATG
+REJECT,3141,12577,ATG
+REJECT,3141,14595,ATG
+ASSIGNED,3141,12990,ATG
+ASSIGNED,3325,8468,ATG
+REJECT,3326,4103,ATG
+REJECT,3326,4372,ATG
+ASSIGNED,3326,1716,ATG
+PROPOSED,5174,19848,ATG
+ASSIGNED,2299,3640,Bundle
+REJECT,2322,10376,Bundle
+REJECT,2456,1106,Bundle
+REJECT,4205,726,Bundle
+ASSIGNED,2388,2024,Trip-arc
+ONBOARDING,5076,1968,Trip-arc
+ASSIGNED,1890,349,MemberNova
+REJECT,2899,4550,MemberNova
+REJECT,2899,998,MemberNova
+ASSIGNED,2899,12583,MemberNova
+REJECT,4685,1910,MemberNova
+ASSIGNED,3557,3838,Ververica
+ASSIGNED,4144,3790,Ververica
+ASSIGNED,4573,1292,Ververica
+ONBOARDING,4883,3985,Ververica
+PROPOSED,5154,2089,Ververica
+ASSIGNED,3313,60,Broadcasting Center Europe (BCE)
+ASSIGNED,2787,2892,Arviem AG
+ASSIGNED,3137,910,Arviem AG
+ASSIGNED,4055,699,Arviem AG
+REJECT,2868,3866,Сбер РБ Платежи&Переводы
+REJECT,4275,7385,Сбер РБ Платежи&Переводы
+ASSIGNED,4275,3204,Сбер РБ Платежи&Переводы
+REJECT,4625,19967,Сбер РБ Платежи&Переводы
+REJECT,2856,1687,Сбер РБ Кошелек Клиента (ФИТ)
+REJECT,2867,10894,Сбер РБ Кошелек Клиента (ФИТ)
+ASSIGNED,2867,18451,Сбер РБ Кошелек Клиента (ФИТ)
+REJECT,3055,11848,Сбер РБ Кошелек Клиента (ФИТ)
+REJECT,3156,13328,Сбер РБ Кошелек Клиента (ФИТ)
+ASSIGNED,4415,17687,Сбер РБ Кошелек Клиента (ФИТ)
+PROPOSED,4909,20286,Сбер РБ Кошелек Клиента (ФИТ)
+ASSIGNED,2545,1203,Allianz Technology (GSI Travel)
+ASSIGNED,4150,11417,Allianz Technology (GSI Travel)
+REJECT,3026,1133,Сбер РБ ДомКлик_ЕФС
+REJECT,3026,7642,Сбер РБ ДомКлик_ЕФС
+ASSIGNED,4197,17935,Сбер РБ ДомКлик_ЕФС
+ASSIGNED,4206,3589,Сбер РБ ДомКлик_ЕФС
+ASSIGNED,4207,11191,Сбер РБ ДомКлик_ЕФС
+REJECT,4866,20208,Сбер РБ ДомКлик_ЕФС
+ASSIGNED,3244,2151,Duftner
+REJECT,4156,14680,Duftner
+ASSIGNED,4156,4087,Duftner
+ASSIGNED,4858,882,Duftner
+ASSIGNED,3238,573,Jusan Bank - Staff augmentation
+ASSIGNED,3239,2217,Jusan Bank - Staff augmentation
+ASSIGNED,3829,6710,Jusan Bank - Staff augmentation
+ASSIGNED,3929,567,Jusan Bank - Staff augmentation
+REJECT,3991,1010,Jusan Bank - Staff augmentation
+ASSIGNED,3991,3639,Jusan Bank - Staff augmentation
+ASSIGNED,4056,7682,Jusan Bank - Staff augmentation
+BOOKED,4147,3890,Jusan Bank - Staff augmentation
+REJECT,4199,6725,Jusan Bank - Staff augmentation
+ASSIGNED,4199,866,Jusan Bank - Staff augmentation
+ASSIGNED,4235,2126,Jusan Bank - Staff augmentation
+ASSIGNED,4236,4086,Jusan Bank - Staff augmentation
+ASSIGNED,4238,1513,Jusan Bank - Staff augmentation
+ASSIGNED,4553,2794,Jusan Bank - Staff augmentation
+ASSIGNED,4668,173,Jusan Bank - Staff augmentation
+REJECT,4803,6725,Jusan Bank - Staff augmentation
+PRE_SELECTED,4803,4995,Jusan Bank - Staff augmentation
+PROPOSED,4803,863,Jusan Bank - Staff augmentation
+PRE_SELECTED,4803,882,Jusan Bank - Staff augmentation
+PRE_SELECTED,4985,2642,Jusan Bank - Staff augmentation
+PROPOSED,4985,882,Jusan Bank - Staff augmentation
+REJECT,3281,2681,Wio Bank
+REJECT,3282,2728,Wio Bank
+REJECT,3581,1292,Wio Bank
+REJECT,3582,12739,Wio Bank
+REJECT,3582,12576,Wio Bank
+REJECT,3582,112,Wio Bank
+REJECT,2676,3962,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,2680,251,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3309,7662,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3309,17443,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3309,17629,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3309,18770,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,3309,20675,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,3309,20985,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3762,4286,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3876,19234,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,4663,19346,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,4664,427,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,4664,3138,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,4666,19592,МЦ НТТ - TM (РТК Контакт-центр)
+ONBOARDING,4667,1824,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,5055,20403,МЦ НТТ - TM (РТК Контакт-центр)
+PROPOSED,5055,20595,МЦ НТТ - TM (РТК Контакт-центр)
+REJECT,3471,13492,Letsbloom
+REJECT,3471,18205,Letsbloom
+BOOKED,3471,10504,Letsbloom
+PRE_SELECTED,3471,20566,Letsbloom
+ASSIGNED,3503,3022,Letsbloom
+ASSIGNED,3628,10907,TICON UK LIMITED
+ASSIGNED,3643,2183,TICON UK LIMITED
+ASSIGNED,3645,10668,TICON UK LIMITED
+REJECT,3561,18390,СБЕР РБ Цифровая Платформа
+ASSIGNED,3661,3294,CHANTELLE
+ASSIGNED,3715,6081,CHANTELLE
+ASSIGNED,3739,843,CHANTELLE
+ASSIGNED,4279,12646,CHANTELLE
+ASSIGNED,1752,2997,SchenckONE Machine
+ASSIGNED,2413,17728,SchenckONE Machine
+ONBOARDING,3605,18114,SchenckONE Machine
+REJECT,4357,2683,Банк Синара (СКБ-банк)
+PROPOSED,4357,20888,Банк Синара (СКБ-банк)
+PROPOSED,4312,10388,ГО ИНВЕСТ
+PROPOSED,4313,14638,ГО ИНВЕСТ
+PROPOSED,4314,20626,ГО ИНВЕСТ
+PROPOSED,4315,20465,ГО ИНВЕСТ
+PROPOSED,4316,10374,ГО ИНВЕСТ
+PROPOSED,4316,20967,ГО ИНВЕСТ
+PROPOSED,4557,11695,ГО ИНВЕСТ
+PROPOSED,4558,11121,ГО ИНВЕСТ
+PROPOSED,4559,10389,ГО ИНВЕСТ
+PROPOSED,4559,1538,ГО ИНВЕСТ
+PROPOSED,4560,6766,ГО ИНВЕСТ
+PROPOSED,4561,19189,ГО ИНВЕСТ
+PROPOSED,4563,19191,ГО ИНВЕСТ
+PROPOSED,4565,17527,ГО ИНВЕСТ
+PROPOSED,4566,11551,ГО ИНВЕСТ
+ONBOARDING,4783,1644,ГО ИНВЕСТ
+PROPOSED,4884,18337,ГО ИНВЕСТ
+PROPOSED,4884,6730,ГО ИНВЕСТ
+REJECT,4161,12842,Сбер РБ Социальные и зарплатные решения
+ASSIGNED,4161,1133,Сбер РБ Социальные и зарплатные решения
+ASSIGNED,4701,3757,Сбер РБ Социальные и зарплатные решения
+ASSIGNED,4703,19265,Сбер РБ Социальные и зарплатные решения
+REJECT,4751,19604,Сбер РБ Социальные и зарплатные решения
+PROPOSED,4751,20438,Сбер РБ Социальные и зарплатные решения
+PROPOSED,4414,4674,Aisemo
+ONBOARDING,4431,4814,Aisemo
+ONBOARDING,4477,19314,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4478,17828,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4478,3138,СБЕР КИБ Брокерский Бизнес
+ONBOARDING,4479,5883,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4480,17723,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4481,10938,СБЕР КИБ Брокерский Бизнес
+ONBOARDING,4482,11555,СБЕР КИБ Брокерский Бизнес
+BOOKED,4483,7605,СБЕР КИБ Брокерский Бизнес
+BOOKED,4484,6703,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4484,7781,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4485,3826,СБЕР КИБ Брокерский Бизнес
+ONBOARDING,4486,7385,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4487,7612,СБЕР КИБ Брокерский Бизнес
+BOOKED,4488,20626,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4489,19037,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4489,20208,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4490,13375,СБЕР КИБ Брокерский Бизнес
+BOOKED,4491,18376,СБЕР КИБ Брокерский Бизнес
+BOOKED,4493,7652,СБЕР КИБ Брокерский Бизнес
+BOOKED,4494,11881,СБЕР КИБ Брокерский Бизнес
+ONBOARDING,4495,8752,СБЕР КИБ Брокерский Бизнес
+ASSIGNED,4496,3866,СБЕР КИБ Брокерский Бизнес
+ASSIGNED,4497,18390,СБЕР КИБ Брокерский Бизнес
+BOOKED,4498,17725,СБЕР КИБ Брокерский Бизнес
+REJECT,4498,19604,СБЕР КИБ Брокерский Бизнес
+BOOKED,4499,3909,СБЕР КИБ Брокерский Бизнес
+REJECT,4500,19087,СБЕР КИБ Брокерский Бизнес
+PROPOSED,4500,20438,СБЕР КИБ Брокерский Бизнес
+ASSIGNED,4501,18926,СБЕР КИБ Брокерский Бизнес

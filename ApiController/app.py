@@ -1,16 +1,18 @@
+from typing import Union
+
 from fastapi import FastAPI, HTTPException, status
 
 from .models import MLModel
 
 app = FastAPI()
-ml_model = MLModel(model_path='random_forest_model.sav', one_hot_encoder_path='one_hot_encoder.pkl', min_max_scaler_path='min_max_scaler.pkl')
+ml_model = MLModel(model_path='random_forest_model.sav', one_hot_encoder_path='one_hot_encoder.pkl', project_complexity_df_path='Data/project_complexity_df.csv')
 
 
 @app.get("/predict")
-async def make_predict(main_technology: str, seniority_level: str, english_level: str, subjective_readiness: int):
+async def make_predict(main_technology: str, seniority_level: str, english_level: str, project_name: Union[str, None] = "undefined"):
     try:
         data = {'main_technology': [main_technology], 'seniority_level': [seniority_level],
-                'english_level': [english_level], 'subjective_readiness': [subjective_readiness]}
+                'english_level': [english_level], 'project_name': project_name}
         prediction = ml_model.make_prediction(data=data)
         response = {
             "chance_of_success": (prediction[0][1] * 100).round(),
@@ -48,6 +50,17 @@ async def get_english_levels():
         english_levels = ml_model.get_english_levels().tolist()
         response = {
             'english_levels': english_levels
+        }
+        return response
+    except Exception as e:
+        return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+
+@app.get("/project_names")
+async def get_project_names():
+    try:
+        project_names = ml_model.get_project_names()
+        response = {
+            'project_names': project_names
         }
         return response
     except Exception as e:
