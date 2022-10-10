@@ -28,7 +28,7 @@ Our current dataset consists of:
 1. Main Technology of a candidate
 2. Seniority level of a candidate
 3. English level of a candidate
-4. Location ID of a candidate
+4. Complexity of the project
 
 Features were prepared with OneHotEncoder.
 
@@ -42,5 +42,5 @@ Best parameters were chosen with GridSearchCV.
 ### Algorithms
 
 Random Forest
-accuracy - 73.6%
+Accuracy - 77.3%
 
