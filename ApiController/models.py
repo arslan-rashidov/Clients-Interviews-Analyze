@@ -50,7 +50,10 @@ class FeaturesTransformer:
         transformed_features = self.one_hot_encoder.transform(df)
         transformed_features = transformed_features.toarray()
         transformed_features = np.insert(transformed_features, 0, complexity)
-        transformed_features = np.insert(transformed_features, 1, data['subjective_readiness'])
+        if data['subjective_readiness'] == 'undefined':
+            transformed_features = np.insert(transformed_features, 1, 50)
+        else:
+            transformed_features = np.insert(transformed_features, 1, float(data['subjective_readiness']))
 
         transformed_labels = np.array(self.one_hot_encoder.get_feature_names_out()).ravel()
         transformed_labels = np.insert(transformed_labels, 0, 'complexity')

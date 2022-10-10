@@ -10,7 +10,7 @@ ml_model = MLModel(model_path='random_forest_model.sav', one_hot_encoder_path='o
 
 
 @app.get("/predict")
-async def make_predict(main_technology: str, seniority_level: str, english_level: str, subjective_readiness: float,
+async def make_predict(main_technology: str, seniority_level: str, english_level: str, subjective_readiness: Union[str, None] = 'undefined',
                        project_name: Union[str, None] = "undefined"):
     try:
         data = {'main_technology': [main_technology], 'seniority_level': [seniority_level],
