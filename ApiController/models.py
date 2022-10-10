@@ -11,6 +11,7 @@ class MLModel:
 
     def make_prediction(self, data):
         features = self.features_transformer.transform_features(data=data)
+        print(features.columns)
         return self.model.predict_proba(features)
 
     def get_main_technologies(self):
@@ -39,16 +40,21 @@ class FeaturesTransformer:
 
     def transform_features(self, data):
         df = pd.DataFrame(data=data)
-        df = df.drop(['project_name'], axis=1)
+        df = df.drop(['project_name', 'subjective_readiness'], axis=1)
+
+        print(df)
+
 
         complexity = float(self.get_complexity(data['project_name']))
 
         transformed_features = self.one_hot_encoder.transform(df)
         transformed_features = transformed_features.toarray()
         transformed_features = np.insert(transformed_features, 0, complexity)
+        transformed_features = np.insert(transformed_features, 1, data['subjective_readiness'])
 
         transformed_labels = np.array(self.one_hot_encoder.get_feature_names_out()).ravel()
         transformed_labels = np.insert(transformed_labels, 0, 'complexity')
+        transformed_labels = np.insert(transformed_labels, 1, 'subjective_readiness')
 
         encoded_features = pd.DataFrame([transformed_features], columns=transformed_labels)
 

@@ -1,0 +1,468 @@
+project_name,technology,total,failed,succeed,complexity
+IHS,NET,25,14.0,11.0,0.56
+Самолёт Венчурс - Плафторма Самолёт+,NET,24,11.0,13.0,0.4583333333333333
+Альфа-банк,JAVA,22,15.0,7.0,0.6818181818181818
+Философия ИТ,JAVA,18,6.0,12.0,0.3333333333333333
+Backbase,JAVA,18,7.0,11.0,0.3888888888888889
+Global Shares Ireland Limited,QA_ENGINEER,17,14.0,3.0,0.8235294117647058
+МТС Диджитал,NET,16,11.0,5.0,0.6875
+Альфа-банк,QA_AUTOMATION_ENGINEER_JAVA,15,10.0,5.0,0.6666666666666666
+Альфа-банк,SYSTEM_ANALYST,14,10.0,4.0,0.7142857142857143
+Яндекс Медиалаб,JAVA,13,6.0,7.0,0.46153846153846156
+Тинькофф Банк,JAVA,13,13.0,0.0,1.0
+Банки.ру,PHP,12,12.0,0.0,1.0
+СБЕР КИБ Брокерский Бизнес,JAVA,12,0.0,12.0,0.0
+Backbase,QA_AUTOMATION_ENGINEER_JAVA,12,7.0,5.0,0.5833333333333334
+Тинькофф Банк,IOS,11,9.0,2.0,0.8181818181818182
+Уральский банк реконструкции и развития,REACT,11,7.0,4.0,0.6363636363636364
+Сбер Риски Департамент интегрированного риск-менеджмента,JAVA,11,10.0,1.0,0.9090909090909091
+Global Shares Ireland Limited,QA_AUTOMATION_ENGINEER_JAVA,11,9.0,2.0,0.8181818181818182
+Publicis Media DE,NET,10,2.0,8.0,0.2
+Ланит - ВТБ,JAVA,10,8.0,2.0,0.8
+Backbase,IOS,10,3.0,7.0,0.3
+Moovforge,REACT,10,6.0,4.0,0.6
+Jusan Bank - Staff augmentation,JAVA,10,2.0,8.0,0.2
+ПАО Банк «ФК Открытие»,ANDROID,9,3.0,6.0,0.3333333333333333
+ABB Switzerland Ltd,NET,9,6.0,3.0,0.6666666666666666
+Альфа-банк,ANDROID,9,8.0,1.0,0.8888888888888888
+СБЕР КИБ Брокерский Бизнес,QA,9,0.0,9.0,0.0
+Самолёт Венчурс - Плафторма Самолёт+,PROJECT_MANAGEMENT,9,7.0,2.0,0.7777777777777778
+Ингосстрах-Инвестиции,SYSTEM_ANALYST,9,7.0,2.0,0.7777777777777778
+Альфа-банк,IOS,8,8.0,0.0,1.0
+Ростелеком #2,ANDROID,8,8.0,0.0,1.0
+X5 Retail Group Портал поставщика,PYTHON,8,5.0,3.0,0.625
+Альфа-банк,BUSINESS_ANALYST,7,5.0,2.0,0.7142857142857143
+Transporeon,JAVA,7,0.0,7.0,0.0
+Space (Neobank),IOS,7,4.0,3.0,0.5714285714285714
+Backbase,ANGULAR,7,1.0,6.0,0.14285714285714285
+СБЕР КИБ Брокерский Бизнес,SYSTEM_ANALYST,7,2.0,5.0,0.2857142857142857
+Ланит - Сбер,REACT,7,1.0,6.0,0.14285714285714285
+ATG,REACT,7,2.0,5.0,0.2857142857142857
+Wio Bank,JAVA,6,6.0,0.0,1.0
+Phenom People,UX_UI,6,4.0,2.0,0.6666666666666666
+Философия ИТ,REACT,6,2.0,4.0,0.3333333333333333
+M10 (PayPoint),FLUTTER,6,2.0,4.0,0.3333333333333333
+IHS Kernel,DEVOPS,6,5.0,1.0,0.8333333333333334
+МЦ НТТ - TM (РТК Контакт-центр),QA_AUTOMATION_ENGINEER_JAVA,6,4.0,2.0,0.6666666666666666
+Allianz Partners,JAVA,6,1.0,5.0,0.16666666666666666
+Сбер РБ - Домклик,SYSTEM_ANALYST,6,6.0,0.0,1.0
+ATG,NODE_JS,6,2.0,4.0,0.3333333333333333
+Exinity,PHP,6,3.0,3.0,0.5
+Thryve (mHealth Pioneers GmbH),JAVA,5,1.0,4.0,0.2
+Wayflyer Limited,PYTHON,5,4.0,1.0,0.8
+Jusan Bank - Staff augmentation,ANGULAR,5,0.0,5.0,0.0
+msg Plaut Austria GmbH,IOS,5,0.0,5.0,0.0
+Space (Neobank),C_SHARP,5,2.0,3.0,0.4
+ABB Switzerland Ltd,QA_AUTOMATION_C_SHARP,5,4.0,1.0,0.8
+River Tech,JAVA,5,3.0,2.0,0.6
+M10 (PayPoint),JAVA,5,3.0,2.0,0.6
+Madkhol,NODE_JS,5,4.0,1.0,0.8
+Accenture Russia,SQL,5,0.0,5.0,0.0
+Тинькофф Банк,ANDROID,5,5.0,0.0,1.0
+GMCS,SYSTEM_ANALYST,5,3.0,2.0,0.6
+Atroo,REACT,5,2.0,3.0,0.4
+Ростелеком #2,SYSTEM_ANALYST,5,5.0,0.0,1.0
+BIKE24,REACT,5,3.0,2.0,0.6
+МТС Диджитал,GO,5,3.0,2.0,0.6
+Backbase,ANDROID,5,4.0,1.0,0.8
+Independer,ANGULAR,4,0.0,4.0,0.0
+I-Teco,JAVA,4,3.0,1.0,0.75
+Global Shares Ireland Limited,ANGULAR,4,3.0,1.0,0.75
+Уральский банк реконструкции и развития,SYSTEM_ANALYST,4,2.0,2.0,0.5
+IHS,ANGULAR,4,1.0,3.0,0.25
+JTI (Japan Tobacco International),PHP,4,2.0,2.0,0.5
+Letsbloom,RUBY,4,2.0,2.0,0.5
+IHS,QA_AUTOMATION_C_SHARP,4,3.0,1.0,0.75
+IPF digital (Java),JAVA,4,4.0,0.0,1.0
+Paysera,REACT,4,2.0,2.0,0.5
+IPF digital (WEB),REACT,4,4.0,0.0,1.0
+Ланит - Сбер,JAVA,4,4.0,0.0,1.0
+SupplyStack,NODE_JS,4,2.0,2.0,0.5
+People Intelligence,PROJECT_MANAGEMENT,4,3.0,1.0,0.75
+Самолёт Венчурс - Плафторма Самолёт+,QA,4,1.0,3.0,0.25
+Ингосстрах-Инвестиции,BUSINESS_ANALYST,4,4.0,0.0,1.0
+ГО ИНВЕСТ,QA_ENGINEER,4,0.0,4.0,0.0
+Банки.ру,REACT,4,4.0,0.0,1.0
+Альфа-банк,QA_ENGINEER,4,4.0,0.0,1.0
+МЦ НТТ - TM (РТК Контакт-центр),REACT,4,1.0,3.0,0.25
+ПАО Банк «ФК Открытие»,QA,4,0.0,4.0,0.0
+Ростелеком #2,IOS,4,2.0,2.0,0.5
+Альфа-банк,DEVOPS,4,2.0,2.0,0.5
+Самолёт Венчурс - Плафторма Самолёт+,SYSTEM_ANALYST,4,2.0,2.0,0.5
+Сбербанк Казахстан,REACT,4,0.0,4.0,0.0
+inDriver,IOS,4,0.0,4.0,0.0
+inDriver,ANDROID,4,0.0,4.0,0.0
+Wondersign,NODE_JS,4,4.0,0.0,1.0
+Сбербанк Казахстан,IOS,4,0.0,4.0,0.0
+Team Force,JAVA,4,3.0,1.0,0.75
+Team Force,IOS,4,4.0,0.0,1.0
+Reuter Gruppe,REACT,4,0.0,4.0,0.0
+Reuter Gruppe,NODE_JS,4,1.0,3.0,0.25
+Exness,GRAPHIC_DESIGNER,4,2.0,2.0,0.5
+Яндекс Медиалаб,PYTHON,4,3.0,1.0,0.75
+Accenture Russia,BUSINESS_ANALYST,4,4.0,0.0,1.0
+Comparis,REACT,4,1.0,3.0,0.25
+BSS Group,JAVA,4,3.0,1.0,0.75
+МТС Диджитал,SYSTEM_ANALYST,3,3.0,0.0,1.0
+ГО ИНВЕСТ,SYSTEM_ANALYST,3,0.0,3.0,0.0
+Kooba,PHP,3,1.0,2.0,0.3333333333333333
+Ингосстрах-Инвестиции,ANDROID,3,3.0,0.0,1.0
+AssetBook LLC2,ANGULAR,3,0.0,3.0,0.0
+Yara International,NODE_JS,3,2.0,1.0,0.6666666666666666
+X5 Retail Group. 5POST,DEVOPS,3,3.0,0.0,1.0
+Ланит - ВТБ,REACT,3,3.0,0.0,1.0
+eurofunk,JAVA,3,1.0,2.0,0.3333333333333333
+X5 Retail Group. 5POST,BI_ANALYST,3,2.0,1.0,0.6666666666666666
+Alternative Payments PSD2,NET,3,2.0,1.0,0.6666666666666666
+Ланит - Сбер,SYSTEM_ANALYST,3,1.0,2.0,0.3333333333333333
+JTI (Japan Tobacco International),NET,3,2.0,1.0,0.6666666666666666
+JTI (Japan Tobacco International),DEVOPS,3,3.0,0.0,1.0
+Wondersign,PYTHON,3,2.0,1.0,0.6666666666666666
+Data Lens Labs Ltd,REACT,3,1.0,2.0,0.3333333333333333
+МЦ НТТ - TM (РТК Контакт-центр),JAVA,3,1.0,2.0,0.3333333333333333
+Yara International,REACT_NATIVE,3,0.0,3.0,0.0
+ГО ИНВЕСТ,ANDROID,3,0.0,3.0,0.0
+msg Plaut Austria GmbH,ANDROID,3,0.0,3.0,0.0
+IHS Kernel,NET,3,0.0,3.0,0.0
+msg Plaut Austria GmbH,JAVA,3,1.0,2.0,0.3333333333333333
+Compleet,PHP,3,0.0,3.0,0.0
+Альфа-банк,QA_AUTOMATION_C_SHARP,3,3.0,0.0,1.0
+NEXR Technologies SE,NODE_JS,3,2.0,1.0,0.6666666666666666
+BSS Group,QA_ENGINEER,3,3.0,0.0,1.0
+Moonfare,NODE_JS,3,0.0,3.0,0.0
+People Intelligence,REACT,3,1.0,2.0,0.3333333333333333
+Mondia group,NODE_JS,3,1.0,2.0,0.3333333333333333
+Банки.ру,JAVA,3,3.0,0.0,1.0
+MemberNova,QA_AUTOMATION,3,2.0,1.0,0.6666666666666666
+Majorel,SYSTEM_ANALYST,3,1.0,2.0,0.3333333333333333
+Compleet,VUE_JS,3,0.0,3.0,0.0
+M10 (PayPoint),QA_AUTOMATION_ENGINEER_JAVA,3,2.0,1.0,0.6666666666666666
+Банки.ру,SYSTEM_ANALYST,3,3.0,0.0,1.0
+M10 (PayPoint),DEVOPS,3,1.0,2.0,0.3333333333333333
+Brandoo,REACT_NATIVE,3,2.0,1.0,0.6666666666666666
+tabby SA,IOS,3,1.0,2.0,0.3333333333333333
+StormPay,IOS,3,2.0,1.0,0.6666666666666666
+Duftner,JAVA,3,1.0,2.0,0.3333333333333333
+Уральский банк реконструкции и развития,JAVA,3,2.0,1.0,0.6666666666666666
+Accenture Russia,JAVA,3,0.0,3.0,0.0
+Сбербанк Казахстан,ANDROID,3,1.0,2.0,0.3333333333333333
+СберМаркет,RUBY,3,2.0,1.0,0.6666666666666666
+CHANTELLE,QA,3,0.0,3.0,0.0
+Сбер РБ Социальные и зарплатные решения,JAVA,3,1.0,2.0,0.3333333333333333
+Сбер РБ Кошелек Клиента (ФИТ),SYSTEM_ANALYST,3,1.0,2.0,0.3333333333333333
+Exness,DEVOPS,3,2.0,1.0,0.6666666666666666
+Самолёт Венчурс - Плафторма Самолёт+,VUE_JS,3,1.0,2.0,0.3333333333333333
+Global Shares Ireland Limited,NET,3,3.0,0.0,1.0
+Ecovium GmbH,BUSINESS_ANALYST,3,2.0,1.0,0.6666666666666666
+Exness,PYTHON,3,2.0,1.0,0.6666666666666666
+Global Shares Ireland Limited,SOFTWARE_ARCHITECT,3,3.0,0.0,1.0
+"Retrain.ai, inc",REACT,3,1.0,2.0,0.3333333333333333
+Allianz Partners,QA_AUTOMATION_ENGINEER_JAVA,3,2.0,1.0,0.6666666666666666
+ABB Switzerland Ltd,REACT,3,1.0,2.0,0.3333333333333333
+IHS Kernel,DATA_SCIENCE_ML,3,3.0,0.0,1.0
+Allianz Technology,DATA_ENGINEER_DBA,3,3.0,0.0,1.0
+IHS,QA,3,0.0,3.0,0.0
+"Retrain.ai, inc",NODE_JS,3,1.0,2.0,0.3333333333333333
+Allianz Partners,SYSTEM_ANALYST,3,1.0,2.0,0.3333333333333333
+Space (Neobank),ANDROID,3,2.0,1.0,0.6666666666666666
+IHS,JAVA,3,1.0,2.0,0.3333333333333333
+Яндекс Медиалаб,DATA_ANALYST,3,2.0,1.0,0.6666666666666666
+Allianz Partners (MultiLob),UX_UI,3,0.0,3.0,0.0
+ПАО Банк «ФК Открытие»,QA_ENGINEER,3,3.0,0.0,1.0
+"Retrain.ai, inc",PYTHON,3,1.0,2.0,0.3333333333333333
+Centtrip UK,AWS,2,1.0,1.0,0.5
+msg Plaut Austria GmbH,BUSINESS_ANALYST,2,2.0,0.0,1.0
+Softeq Minsk,QA_AUTOMATION_ENGINEER_JS,2,2.0,0.0,1.0
+SchenckONE Machine,WPF,2,0.0,2.0,0.0
+msg Plaut Austria GmbH,PYTHON,2,1.0,1.0,0.5
+msg Plaut Austria GmbH,QA_AUTOMATION_ENGINEER_PYTHON,2,0.0,2.0,0.0
+msg Plaut Austria GmbH,DEVOPS,2,0.0,2.0,0.0
+Ververica,JAVA,2,0.0,2.0,0.0
+Space (Neobank),NET,2,1.0,1.0,0.5
+Spiromatic,QA_AUTOMATION_C_SHARP,2,0.0,2.0,0.0
+StormPay,ANDROID,2,1.0,1.0,0.5
+Verses,FLUTTER,2,0.0,2.0,0.0
+inDriver,GO,2,0.0,2.0,0.0
+SupplyStack,PROJECT_MANAGEMENT,2,0.0,2.0,0.0
+X5 Retail Group Портал поставщика,UX_UI,2,1.0,1.0,0.5
+X5 Retail Group Портал поставщика,DEVOPS,2,1.0,1.0,0.5
+Booking Group Corporation,REACT,2,0.0,2.0,0.0
+tabby SA,REACT_NATIVE,2,0.0,2.0,0.0
+Emma Sleep GmbH,IOS,2,1.0,1.0,0.5
+ГО ИНВЕСТ,QA_AUTOMATION_ENGINEER_JAVA,2,0.0,2.0,0.0
+Bitmovin GmbH,ANDROID,2,2.0,0.0,1.0
+МТС Диджитал,ORACLE,2,2.0,0.0,1.0
+Манго телеком,QA_AUTOMATION_ENGINEER_JAVA,2,2.0,0.0,1.0
+Манго телеком,QA_ENGINEER,2,2.0,0.0,1.0
+ПАО Банк «ФК Открытие»,JAVA,2,2.0,0.0,1.0
+Allianz Partners (MultiLob),BUSINESS_ANALYST,2,0.0,2.0,0.0
+Allianz Partners,DEVOPS,2,1.0,1.0,0.5
+Самолёт Венчурс - Плафторма Самолёт+,UX_UI,2,2.0,0.0,1.0
+Сбер РБ ДомКлик_ЕФС,JAVA,2,2.0,0.0,1.0
+Сбер РБ Платежи&Переводы,JAVA,2,1.0,1.0,0.5
+Сбер РБ Платежи&Переводы,QA,2,2.0,0.0,1.0
+Сбер РБ Социальные и зарплатные решения,SYSTEM_ANALYST,2,1.0,1.0,0.5
+Сбер Риски Департамент интегрированного риск-менеджмента,QA_AUTOMATION_ENGINEER_JAVA,2,1.0,1.0,0.5
+Уральский банк реконструкции и развития,QA_ENGINEER,2,2.0,0.0,1.0
+ANIXE,NET,2,2.0,0.0,1.0
+ANIXE,GO,2,2.0,0.0,1.0
+Философия ИТ,QA_AUTOMATION,2,1.0,1.0,0.5
+Манго телеком,NODE_JS,2,2.0,0.0,1.0
+МТС Диджитал,DATA_ENGINEER,2,1.0,1.0,0.5
+Backbase,DEVOPS,2,1.0,1.0,0.5
+МАГНИТ,VUE_JS,2,2.0,0.0,1.0
+BSS Group,SYSTEM_ANALYST,2,2.0,0.0,1.0
+BSS Group,REACT,2,1.0,1.0,0.5
+Альфа-банк,PRODUCT_OWNER,2,0.0,2.0,0.0
+BSS Group,QA,2,1.0,1.0,0.5
+BSS Group,NODE_REACT,2,2.0,0.0,1.0
+Банк Синара (СКБ-банк),SYSTEM_ANALYST,2,1.0,1.0,0.5
+Atroo,QA_AUTOMATION_ENGINEER_JS,2,0.0,2.0,0.0
+ГО ИНВЕСТ,IOS,2,0.0,2.0,0.0
+ГО ИНВЕСТ,QA,2,0.0,2.0,0.0
+Rush Street Interactive,REACT,2,0.0,2.0,0.0
+ГО ИНВЕСТ,QA_PERFORMANCE,2,0.0,2.0,0.0
+Ингосстрах-Инвестиции,QA_AUTOMATION_ENGINEER_PYTHON,2,2.0,0.0,1.0
+Arviem AG,JAVA,2,0.0,2.0,0.0
+Ланит - ВТБ,SYSTEM_ANALYST,2,2.0,0.0,1.0
+МАГНИТ,ANDROID,2,2.0,0.0,1.0
+Rush Street Interactive,UX_UI,2,2.0,0.0,1.0
+X5 Retail Group Портал поставщика,ANGULAR,2,0.0,2.0,0.0
+Rush Street Interactive,ANDROID,2,0.0,2.0,0.0
+RCI Banque S.A. Niederlassung Deutschland,DEVOPS,2,0.0,2.0,0.0
+Quincus,JAVA,2,2.0,0.0,1.0
+PropertyGuru Group,REACT_NATIVE,2,1.0,1.0,0.5
+People Intelligence,PYTHON,2,1.0,1.0,0.5
+Paysera,PRODUCT_OWNER,2,0.0,2.0,0.0
+Nexxiot AG,QA_ENGINEER,2,1.0,1.0,0.5
+NEXR Technologies SE,REACT,2,1.0,1.0,0.5
+NEXR Technologies SE,PRODUCT_OWNER,2,1.0,1.0,0.5
+Moonfare,REACT,2,2.0,0.0,1.0
+Crystal Blockchain,GO,2,0.0,2.0,0.0
+Crystal Blockchain,NODE_JS,2,0.0,2.0,0.0
+Crystal Blockchain,PYTHON,2,0.0,2.0,0.0
+Data Lens Labs Ltd,QA,2,0.0,2.0,0.0
+Datagile,REACT,2,2.0,0.0,1.0
+IPF digital,IOS,2,0.0,2.0,0.0
+IHS,DEVOPS,2,1.0,1.0,0.5
+Getsafe,RUBY,2,1.0,1.0,0.5
+Exness,NODE_JS,2,1.0,1.0,0.5
+Exinity,SYSTEM_ANALYST,2,2.0,0.0,1.0
+Eleving Group,RUBY,2,1.0,1.0,0.5
+Quincus,RUBY,2,2.0,0.0,1.0
+Shieldpay,NODE_JS,2,1.0,1.0,0.5
+River Tech,ANGULAR,2,0.0,2.0,0.0
+Chrsolutions,NET,2,1.0,1.0,0.5
+SupplyStack,EXT_JS,1,0.0,1.0,0.0
+Decta,QA_AUTOMATION_ENGINEER_JAVA,1,0.0,1.0,0.0
+ПАО Банк «ФК Открытие»,NET,1,1.0,0.0,1.0
+Softeq Minsk,ANDROID,1,1.0,0.0,1.0
+ПАО Банк «ФК Открытие»,QA_AUTOMATION,1,0.0,1.0,0.0
+ПАО Банк «ФК Открытие»,QA_AUTOMATION_ENGINEER_JAVA,1,1.0,0.0,1.0
+Duftner,IOS,1,0.0,1.0,0.0
+ПАО Банк «ФК Открытие»,QA_PERFORMANCE,1,0.0,1.0,0.0
+Allianz Partners (MultiLob),QA_AUTOMATION_ENGINEER_JAVA,1,0.0,1.0,0.0
+Ростелеком #2,C_PLUSPLUS,1,1.0,0.0,1.0
+Ростелеком #2,GO,1,1.0,0.0,1.0
+Allianz Partners (MultiLob),KOTLIN,1,0.0,1.0,0.0
+Ростелеком #2,QA_AUTOMATION_ENGINEER_PYTHON,1,1.0,0.0,1.0
+Decta,PHP,1,0.0,1.0,0.0
+Ростелеком #2,REACT,1,1.0,0.0,1.0
+Ростелеком #2,ROR,1,1.0,0.0,1.0
+Ростелеком #2,RUBY,1,1.0,0.0,1.0
+Allianz Partners (MultiLob),JAVA,1,0.0,1.0,0.0
+I22,RUBY,1,0.0,1.0,0.0
+Allianz Partners (MultiLob),ANGULAR,1,0.0,1.0,0.0
+СБЕР КИБ Брокерский Бизнес,REACT,1,0.0,1.0,0.0
+I22,REACT,1,0.0,1.0,0.0
+СБЕР РБ Цифровая Платформа,SYSTEM_ANALYST,1,1.0,0.0,1.0
+Самолёт Венчурс - Плафторма Самолёт+,DEVOPS,1,1.0,0.0,1.0
+Decta,PYTHON,1,0.0,1.0,0.0
+Softeq Minsk,BUSINESS_ANALYST,1,1.0,0.0,1.0
+Allianz Partners,NODE_JS,1,0.0,1.0,0.0
+IPF digital,QA_ENGINEER,1,0.0,1.0,0.0
+JTI (Japan Tobacco International),QA_AUTOMATION_ENGINEER_JS,1,0.0,1.0,0.0
+Centtrip USA,BUSINESS_ANALYST,1,0.0,1.0,0.0
+МАГНИТ,JAVA,1,1.0,0.0,1.0
+МАГНИТ,QA_ARCHITECT,1,0.0,1.0,0.0
+МАГНИТ,QA_AUTOMATION,1,1.0,0.0,1.0
+МАГНИТ,REACT,1,1.0,0.0,1.0
+JTI (Japan Tobacco International),GO,1,0.0,1.0,0.0
+МТС Диджитал,ANDROID,1,1.0,0.0,1.0
+JET RoR,RUBY,1,1.0,0.0,1.0
+МТС Диджитал,DEVOPS,1,1.0,0.0,1.0
+Allianz Technology - Canada,BUSINESS_ANALYST,1,1.0,0.0,1.0
+МТС Диджитал,IOS,1,1.0,0.0,1.0
+Allianz Technology (GSI Travel),QA_AUTOMATION_ENGINEER_JAVA,1,0.0,1.0,0.0
+ITFB Group,IOS,1,1.0,0.0,1.0
+Data Lens Labs Ltd,WEB_DESIGNER,1,0.0,1.0,0.0
+МЦ НТТ - TM (РТК Контакт-центр),BUSINESS_ANALYST,1,0.0,1.0,0.0
+Softeq Minsk,IOS,1,1.0,0.0,1.0
+МЦ НТТ - TM (РТК Контакт-центр),PROJECT_MANAGEMENT,1,1.0,0.0,1.0
+МЦ НТТ - TM (РТК Контакт-центр),QA,1,1.0,0.0,1.0
+Allianz Technology (GSI Travel),JAVA,1,0.0,1.0,0.0
+Allianz Technology,DATA_ENGINEER_ETL,1,1.0,0.0,1.0
+МЦ НТТ - TM (РТК Контакт-центр),SYSTEM_ANALYST,1,0.0,1.0,0.0
+Манго телеком,KOTLIN,1,1.0,0.0,1.0
+I22,PHP,1,1.0,0.0,1.0
+Global Shares Ireland Limited,SCRUM_MASTER,1,1.0,0.0,1.0
+Alternative Payments PSD2,QA_AUTOMATION_C_SHARP,1,0.0,1.0,0.0
+GMCS,JAVA,1,1.0,0.0,1.0
+Тинькофф Банк,ANGULAR,1,1.0,0.0,1.0
+Тинькофф Банк,BUSINESS_ANALYST,1,1.0,0.0,1.0
+Fressnapf Tiernahrungs,QA_AUTOMATION_ENGINEER_JAVA,1,0.0,1.0,0.0
+ANIXE,UX_UI,1,1.0,0.0,1.0
+Тинькофф Банк,REACT,1,1.0,0.0,1.0
+Тинькофф Банк,SCALA,1,1.0,0.0,1.0
+Тинькофф Банк,SYSTEM_ANALYST,1,1.0,0.0,1.0
+Уральский банк реконструкции и развития,DRUPAL,1,0.0,1.0,0.0
+Exness,UX_UI,1,0.0,1.0,0.0
+Уральский банк реконструкции и развития,ORACLE,1,1.0,0.0,1.0
+Уральский банк реконструкции и развития,PHP,1,1.0,0.0,1.0
+Exness,SYSTEM_ANALYST,1,1.0,0.0,1.0
+ANIXE,PHP,1,0.0,1.0,0.0
+Уральский банк реконструкции и развития,SYMFONY,1,1.0,0.0,1.0
+Roibox,ANGULAR,1,1.0,0.0,1.0
+Уральский банк реконструкции и развития,WEB_DESIGNER,1,0.0,1.0,0.0
+Eleving Group,HTML,1,1.0,0.0,1.0
+Философия ИТ,PYTHON,1,0.0,1.0,0.0
+Scytl,JAVA,1,0.0,1.0,0.0
+ANIXE,BUSINESS_ANALYST,1,1.0,0.0,1.0
+Яндекс Медиалаб,ANDROID,1,0.0,1.0,0.0
+Exinity,QA_AUTOMATION_ENGINEER_PYTHON,1,0.0,1.0,0.0
+Roibox,NET,1,1.0,0.0,1.0
+Accenture Russia,DATA_ANALYST,1,0.0,1.0,0.0
+Accenture Russia,SYSTEM_ANALYST,1,0.0,1.0,0.0
+Самолёт Венчурс - Плафторма Самолёт+,QA_AUTOMATION_ENGINEER_JS,1,1.0,0.0,1.0
+GMCS,QA_AUTOMATION_ENGINEER_JAVA,1,0.0,1.0,0.0
+Самолёт Венчурс - Плафторма Самолёт+,SOLUTIONS_ARCHITECT,1,1.0,0.0,1.0
+Allianz Partners,BUSINESS_ANALYST,1,0.0,1.0,0.0
+Ecovium GmbH,ANGULAR,1,0.0,1.0,0.0
+Ecovium GmbH,NODE_JS,1,1.0,0.0,1.0
+Сбер РБ - Домклик,ANDROID,1,0.0,1.0,0.0
+Aisemo,UX_UI,1,0.0,1.0,0.0
+Siemens UK | Yunex Traffic,C_PLUSPLUS,1,0.0,1.0,0.0
+Сбер РБ ДомКлик_ЕФС,QA,1,1.0,0.0,1.0
+Сбер РБ ДомКлик_ЕФС,REACT,1,0.0,1.0,0.0
+Сбер РБ ДомКлик_ЕФС,SYSTEM_ANALYST,1,0.0,1.0,0.0
+Сбер РБ Кошелек Клиента (ФИТ),DATA_ENGINEER,1,1.0,0.0,1.0
+Сбер РБ Кошелек Клиента (ФИТ),JAVA,1,1.0,0.0,1.0
+Сбер РБ Кошелек Клиента (ФИТ),ORACLE,1,0.0,1.0,0.0
+Сбер РБ Кошелек Клиента (ФИТ),QA,1,1.0,0.0,1.0
+Getsafe,REACT,1,0.0,1.0,0.0
+Geta Digital,NET,1,0.0,1.0,0.0
+Geta Digital,IOS,1,0.0,1.0,0.0
+Geta Digital,ANGULAR,1,1.0,0.0,1.0
+Сбер РБ Социальные и зарплатные решения,REACT,1,0.0,1.0,0.0
+Eleving Group,DEVOPS,1,0.0,1.0,0.0
+Aisemo,QA_AUTOMATION_ENGINEER_JS,1,0.0,1.0,0.0
+GMCS,SQL,1,1.0,0.0,1.0
+GMCS,REACT,1,1.0,0.0,1.0
+Data Lens Labs Ltd,BUSINESS_ANALYST,1,0.0,1.0,0.0
+Jusan Bank - Staff augmentation,BUSINESS_ANALYST,1,0.0,1.0,0.0
+Jusan Bank - Staff augmentation,ANGULAR_JS,1,0.0,1.0,0.0
+Wayflyer Limited,REACT,1,0.0,1.0,0.0
+Booking Group Corporation,NET,1,0.0,1.0,0.0
+StormPay,JAVA,1,1.0,0.0,1.0
+Wondersign,QA_AUTOMATION_ENGINEER_PYTHON,1,0.0,1.0,0.0
+Enersis,ANGULAR,1,0.0,1.0,0.0
+Quincus,GO,1,1.0,0.0,1.0
+X5 Retail Group Портал поставщика,GO,1,1.0,0.0,1.0
+X5 Retail Group Портал поставщика,IOS,1,0.0,1.0,0.0
+Booking Group Corporation,DEVOPS,1,0.0,1.0,0.0
+X5 Retail Group Портал поставщика,REACT,1,0.0,1.0,0.0
+Qatar National Bank,JAVA,1,0.0,1.0,0.0
+Publicis Media DE,REACT,1,0.0,1.0,0.0
+Cian_2,REACT,1,1.0,0.0,1.0
+X5 Retail Group. 5POST,QA_ENGINEER,1,0.0,1.0,0.0
+Yara International,NET,1,1.0,0.0,1.0
+Publicis Media DE,DATA_ENGINEER_DBA,1,0.0,1.0,0.0
+Yara International,PRODUCT_OWNER,1,1.0,0.0,1.0
+Yara International,QA_AUTOMATION,1,0.0,1.0,0.0
+Yara International,SOFTWARE_ARCHITECT,1,0.0,1.0,0.0
+Yonoton,REACT_NATIVE,1,0.0,1.0,0.0
+cxomni CXM cloud,REACT,1,0.0,1.0,0.0
+ethinking,DEVOPS,1,0.0,1.0,0.0
+ethinking,JAVA,1,0.0,1.0,0.0
+eurofunk,ANGULAR,1,1.0,0.0,1.0
+StormPay,QA_AUTOMATION,1,1.0,0.0,1.0
+RCI Banque S.A. Niederlassung Deutschland,BUSINESS_ANALYST,1,0.0,1.0,0.0
+Bundle,UX_UI,1,0.0,1.0,0.0
+RCI Banque S.A. Niederlassung Deutschland,DATA_ENGINEER_DBA,1,1.0,0.0,1.0
+Reuter Gruppe,BUSINESS_ANALYST,1,0.0,1.0,0.0
+SupplyStack,SCRUM_MASTER,1,0.0,1.0,0.0
+Synchtank,PROJECT_MANAGEMENT,1,0.0,1.0,0.0
+Team Force,ANGULAR,1,1.0,0.0,1.0
+Bundle,REACT,1,1.0,0.0,1.0
+Bundle,NODE_JS,1,1.0,0.0,1.0
+Team Force,QA_AUTOMATION,1,1.0,0.0,1.0
+Team Force,QA_AUTOMATION_ENGINEER_JAVA,1,1.0,0.0,1.0
+The Sole Supplier,REACT,1,0.0,1.0,0.0
+Thryve (mHealth Pioneers GmbH),IOS,1,0.0,1.0,0.0
+Bundle,IOS,1,1.0,0.0,1.0
+Thryve (mHealth Pioneers GmbH),SOFTWARE_ARCHITECT,1,0.0,1.0,0.0
+Transporeon,ANGULAR,1,0.0,1.0,0.0
+Broadcasting Center Europe (BCE),JAVA,1,0.0,1.0,0.0
+Trip-arc,QA_ANALYST,1,0.0,1.0,0.0
+Upfitness,IOS,1,0.0,1.0,0.0
+StormPay,QA_MOBILE,1,0.0,1.0,0.0
+Verses,QA,1,0.0,1.0,0.0
+Verses,REACT,1,0.0,1.0,0.0
+Verses,TYPE_SCRIPT,1,0.0,1.0,0.0
+Ververica,ANGULAR,1,0.0,1.0,0.0
+Ververica,AWS,1,0.0,1.0,0.0
+Ververica,BUSINESS_ANALYST,1,0.0,1.0,0.0
+eurofunk,DEVOPS,1,0.0,1.0,0.0
+PropertyGuru Group,QA_AUTOMATION_ENGINEER_JAVA,1,1.0,0.0,1.0
+eurofunk,QA_AUTOMATION_ENGINEER_JS,1,0.0,1.0,0.0
+eurofunk,QA_ENGINEER,1,1.0,0.0,1.0
+Rezolve,ANDROID,1,0.0,1.0,0.0
+Mondia group,SPRING,1,1.0,0.0,1.0
+Банки.ру,ANDROID,1,1.0,0.0,1.0
+MemberNova,SYSTEM_ANALYST,1,1.0,0.0,1.0
+Банки.ру,NODE_JS,1,1.0,0.0,1.0
+MemberNova,NET,1,0.0,1.0,0.0
+Банки.ру,QA_AUTOMATION_ENGINEER_JAVA,1,1.0,0.0,1.0
+CHANTELLE,NODE_JS,1,0.0,1.0,0.0
+Rezolve,PHP,1,0.0,1.0,0.0
+LigaStavok.TM,FLUTTER,1,1.0,0.0,1.0
+Lexop,RUBY,1,1.0,0.0,1.0
+Letsbloom,REACT,1,0.0,1.0,0.0
+SchenckONE Machine,SOFTWARE_ARCHITECT,1,0.0,1.0,0.0
+Leonteq,SCALA,1,0.0,1.0,0.0
+Laya Technologies,DEVOPS,1,0.0,1.0,0.0
+Kooba,ANGULAR_JS,1,0.0,1.0,0.0
+Jusan Bank - Staff augmentation,SYSTEM_ANALYST,1,0.0,1.0,0.0
+Ингосстрах-Инвестиции,C_SHARP,1,1.0,0.0,1.0
+Ингосстрах-Инвестиции,DEVOPS,1,0.0,1.0,0.0
+Ингосстрах-Инвестиции,IOS,1,1.0,0.0,1.0
+DMHub,UX_UI,1,0.0,1.0,0.0
+Jusan Bank - Staff augmentation,IOS,1,0.0,1.0,0.0
+Arviem AG,BI_ANALYST,1,0.0,1.0,0.0
+Moovforge,PROJECT_MANAGEMENT,1,1.0,0.0,1.0
+Compleet,UX_UI,1,1.0,0.0,1.0
+Space (Neobank),QA_MOBILE,1,0.0,1.0,0.0
+Paysera,PROJECT_MANAGER,1,0.0,1.0,0.0
+Booking Group Corporation,BUSINESS_ANALYST,1,0.0,1.0,0.0
+PropertyGuru Group,PYTHON,1,1.0,0.0,1.0
+BlueBridge Technologies,QA_ENGINEER,1,1.0,0.0,1.0
+PropertyGuru Group,IOS,1,0.0,1.0,0.0
+Reuter Gruppe,PROJECT_MANAGEMENT,1,0.0,1.0,0.0
+Compleet,JAVA,1,1.0,0.0,1.0
+BlueBridge Technologies,QA_AUTOMATION_ENGINEER_PYTHON,1,1.0,0.0,1.0
+Paysera,QA_MOBILE,1,1.0,0.0,1.0
+Paysera,QA_AUTOMATION_ENGINEER_JAVA,1,1.0,0.0,1.0
+msg Plaut Austria GmbH,QA,1,0.0,1.0,0.0
+Stoovo,NODE_JS,1,1.0,0.0,1.0
+Space (Neobank),SQL,1,0.0,1.0,0.0
+Paysera,PHP,1,1.0,0.0,1.0
+verivox.de,DBA,1,0.0,1.0,0.0
+verivox.de,NET,1,0.0,1.0,0.0
+BlueBridge Technologies,QA_AUTOMATION_ENGINEER_JS,1,1.0,0.0,1.0
+Paysera,DELIVERY_MANAGER,1,0.0,1.0,0.0
+Paysera,ARCHITECT,1,1.0,0.0,1.0
+Альфа-банк,GO,1,1.0,0.0,1.0
+Centtrip USA,QA,1,0.0,1.0,0.0
+Nexxiot AG,ANGULAR,1,0.0,1.0,0.0
+Альфа-банк,POSTGRESQL,1,0.0,1.0,0.0
+AssetBook LLC2,UX_UI,1,0.0,1.0,0.0
