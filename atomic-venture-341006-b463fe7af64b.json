@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-venture-341006",
+  "private_key_id": "b463fe7af64be18abd480e30f54e1fcc71ea5aee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwuJXolNEt+M2i\nnBtP8A9RjFdkAmmr0flAwYxAbsH5O5tc2W4i7lnr1tZfOoDvQjDDa1ANRZc4VWiQ\nlQ2m/4GGv9/8Jm1rHFMwUzSndNqc21uBlweMr1mqFYEdFh5og8LowauQ0Ya3x6gz\ncfv062bownRBhcGBJ53NoO9k3OwnuOYKgxeVaipMhTaIEan9vfPBzAA0rLdUq7Dk\nbWGrl7YOe1JoeXWExskeAvzm5+fDDBBu4Y1KQqSdx4/4KsmamdvPwoz/0P4auWbO\nXAhNzaEWw7sPGDeLn8dut5gyqg57Tnv2qkdCmvmm55OD02il/jz8MkCDcygUtRz1\nm9IcrROrAgMBAAECggEAEOurlthg6vjun4o45z+CB/nbCD1e5s+1AOlHR4gTVIzL\nhGlhLUELJRSt8/JDFCWPS7bDtHGcWA19dJKA+yNtwHwwsxDu2xmcMX1WBk6e+/PY\n4CCY3XSQrkNe2G0cvj8Xc3fPuI8HSiN4zGw2hq3fbZvoy7lF3NrxNhYZtdudVPQr\ne7NgwIcPsWkCZ26zckSM78DXWYLSbzAOMYqdFeAo6NYF9vuer9l89XIadXDJU0sE\n1JZo1WBKCa0YU41OdK7lt4eS3OB4sM6ghzyWoWqVMp3dbRciU/kSpJgVvyraoeoK\nRIbTF4eKyVmmLLLf/6FNACzQin1g0Q1ZyGv2HYWPoQKBgQDaYhU3pZN3l+jOrOsF\nYt07B1ahClBTriV7Bv3xAbKJEWfHmTMYZYOowBFNk99j0XrKbKhsTD1YhIe/hrr3\nh0goc/u95JgSWlCCFP0KStO371H95QOr04C9xqBGVFxFzHmKw9ra9TkIXdvcwTZ7\nK/Z5D3xqKovohIkvwpDDCS1DsQKBgQDPKVpQijiu2fPCXby9SdCOxt6qA2SXdkhO\nXAkjDFPypjkAd6kGH8kR9+ihwfMlvZQK6QA9rmFb2P0m8l6lE7Zz0gjiQzCIzta+\n3sboOdbXW8i3Spz+ee44OCfekPgo2bj9K2wZL0oastBqK585gFd04b5VqWYStb0W\nnhBMvcHwGwKBgQCXVfEuJugSsIr87ofPq7tz9Jnr76HK25vNrgK8yVhX9F/eyiPG\nfFLI1pEnGZptKfXV4Ya1xf+dH/qSl2Npta4jmnySE5/u1/eCrdjNER23EXnYYKQy\nptdIrCTVmBB5rkFsEF3R7q4fRivex2Zh5Q1gx4KIcAOUloQbPNHk1q8vgQKBgBGQ\nyxSrM7U3y+B+PEO8n4+Ls1OtJ/lj0Su7yBaNtAyOJaUxgEaBqXX5lGMq4+geVBA8\nw4V3ZM/57TVBNd8/dagKdjBhTBs9lp3mm+0TAnGOWc2Y6Qj248kmkdLgbfpgw7vL\n08Wq6dirstpdyomApWnGvnHbBEmv2VGyo2UubeRjAoGBAMZvzrjzYTaslT5taQtq\njBXhda6/wrKRFHX5DfjV2/NEZMD4X+0nvKhzwH7nnvs18FbUc0qiiuWzdqgIykKn\nR3NKUt45ragMgbVICT1tfL7LU+6pd29DkC73wUuWigRznSKJWJ0NJ7S3h2VeLEiV\nN7NL6hymE2dQKP+zQtNdKroE\n-----END PRIVATE KEY-----\n",
+  "client_email": "arashidov-service-account@atomic-venture-341006.iam.gserviceaccount.com",
+  "client_id": "112803763852968054409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arashidov-service-account%40atomic-venture-341006.iam.gserviceaccount.com"
+}
