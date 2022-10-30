@@ -49,7 +49,6 @@ class ClientsInterviewsAnalyzer:
 
         #self.save_tree_png(rfc, x_train.columns, 5)
 
-    # Save Model
     def save_model(self, model, model_name):
         filename = f'{model_name}.sav'
         pickle.dump(model, open(filename, 'wb'))

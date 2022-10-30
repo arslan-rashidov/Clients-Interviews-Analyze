@@ -18,7 +18,7 @@ class ClientsInterviewsDataPreprocessing:
     def run(self):
         self.get_and_preapare_data()
 
-
+    # Main Data Preprocess method
     def get_and_preapare_data(self):
         # Read datasets
         staffing_candidate_in_request_df = pd.read_csv(self.staffing_candidate_in_request_for_specialist_path)
@@ -143,6 +143,7 @@ class ClientsInterviewsDataPreprocessing:
         # Save Interviews
         staffing_candidate_in_request_df.to_csv(working_dataset_path, index=False)
 
+    # Method to fill nans in the column with proportions of values
     def fill_nans_with_proportion(self, dataframe, column_name):
         column_value_counts = dataframe[column_name].value_counts()
         column_values_total = dataframe[column_name].count()
@@ -178,6 +179,7 @@ class ClientsInterviewsDataPreprocessing:
 
         return dataframe
 
+    # Get complexity table
     def make_project_complexity_by_technologies_table(self, staffing_candidate_in_request_df):
         projects_failed = staffing_candidate_in_request_df[staffing_candidate_in_request_df['status'] == 0][
             ['project_name', 'interview_technology', 'status']]
@@ -205,6 +207,7 @@ class ClientsInterviewsDataPreprocessing:
         project_complexity_df.to_csv('Data/project_complexity_new_df.csv', index=False)
         return project_complexity_df
 
+    # Get succeed and failed projects table
     def get_succeed_and_failed_projects_for_candidates(self, candidates_history):
         new_df = candidates_history.groupby(['candidate_id', 'status']).size().sort_values(ascending=False).reset_index(
             name='count')

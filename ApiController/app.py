@@ -13,7 +13,7 @@ succeed_projects_df = pd.read_csv('Data/succeed_projects_count.csv')
 failed_projects_df = pd.read_csv('Data/failed_projects_count.csv')
 staffing_candidates_df = pd.read_csv('Data/staffing_candidates.csv').rename({'id':'candidate_id'}, axis=1)
 
-
+# Main Predict Method
 @app.get("/predict")
 async def make_predict(candidate_id: float, interview_technology: str, candidate_seniority_level: str, candidate_english_level: str, interview_language: str, candidate_subjective_readiness: Union[str, None] = 'undefined', project_name: Union[str, None] = "undefined"):
     try:
@@ -31,7 +31,7 @@ async def make_predict(candidate_id: float, interview_technology: str, candidate
     except Exception as e:
         return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
 
-
+# Method for getting interview technologies stack
 @app.get("/interview_tecnologies")
 async def get_interview_tecnologies():
     try:
@@ -43,7 +43,7 @@ async def get_interview_tecnologies():
     except Exception as e:
         return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
 
-
+# Method for getting seniority levels stack
 @app.get("/seniority_levels")
 async def get_seniority_levels():
     try:
@@ -55,7 +55,7 @@ async def get_seniority_levels():
     except Exception as e:
         return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
 
-
+# Method for getting english levels stack
 @app.get("/english_levels")
 async def get_english_levels():
     try:
@@ -67,7 +67,7 @@ async def get_english_levels():
     except Exception as e:
         return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
 
-
+# Method for getting project names stack
 @app.get("/project_names")
 async def get_project_names():
     try:

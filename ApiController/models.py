@@ -8,6 +8,7 @@ class Candidate:
         self.candidate_id = candidate_id
         self.succeed_projects_count, self.failed_projects_count = self.get_characteristics(succeed_projects_df, failed_projects_df)
 
+    # Get number of succeed and failed projects
     def get_characteristics(self, succeed_projects_df, failed_projects_df):
         succeed_projects_count_row = succeed_projects_df[(succeed_projects_df['candidate_id'] == self.candidate_id)]
         succeed_projects_count = succeed_projects_count_row['succeed_projects_count']
@@ -64,6 +65,7 @@ class FeaturesTransformer:
         self.project_complexity_df = pd.read_csv(project_complexity_df_path)
         self.one_hot_encoder = loaded_one_hot_encoder
 
+    # Trandform API parameters to model inputs
     def transform_features(self, data):
         df = pd.DataFrame(data={'interview_technology': [data['interview_technology']]})
         candidate_english_level = english_levels_labels[data['candidate_english_level']]
